@@ -1,0 +1,1006 @@
+Employee_ID,Expense_Amount,Currency,Category,Description,Date,Approved/Rejected,Vendor,Department,Location,Exact_Duplicate,Near_Duplicate,Anomaly,Suspicious,Fraud_Score
+33,596.13,INR,Travel,Player development local structure whom.,2025-09-23,Approved,Vendor_1,IT,AU,True,True,False,False,2
+35,957.62,INR,Accommodation,She discover natural right.,2025-03-17,Approved,Vendor_2,HR,USA,True,True,False,False,2
+46,615.08,INR,Accommodation,Clearly young walk road.,2025-08-01,Approved,Vendor_4,IT,EU,True,True,False,False,2
+48,37.15,GBP,Accommodation,Available between ahead kid.,2025-07-01,Rejected,Vendor_9,HR,IN,False,False,True,False,1
+48,622.2,USD,Meals,Talk chair late name he cup.,2025-04-20,Approved,Vendor_9,HR,EU,False,False,False,False,0
+18,588.48,GBP,Meals,Always offer history ground they simply act.,2025-08-08,Approved,Vendor_10,Sales,IN,False,False,False,False,0
+22,483.9,AUD,Supplies,Huge show along.,2025-01-07,Approved,Vendor_7,HR,UK,False,False,False,False,0
+2,665.0,GBP,Travel,Morning employee economy today hospital wall position.,2025-09-21,Approved,Vendor_7,HR,AU,False,False,False,False,0
+47,493.55,EUR,Entertainment,Team success during five drop property nearly wear.,2025-09-03,Approved,Vendor_9,IT,IN,False,False,False,False,0
+16,557.62,EUR,Accommodation,Conference this those today morning two recent.,2025-06-17,Rejected,Vendor_5,IT,UK,False,False,False,False,0
+11,428.54,AUD,Travel,View week information discover thus.,2025-07-05,Approved,Vendor_3,IT,EU,False,False,False,False,0
+45,328.98,INR,Supplies,Church treatment ten system key.,2025-01-15,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+36,825.32,EUR,Travel,Mean national general you respond image weight develop.,2025-06-23,Approved,Vendor_2,Sales,UK,False,False,False,False,0
+32,895.85,INR,Entertainment,Ok most follow inside return account up.,2025-05-03,Approved,Vendor_7,Finance,EU,False,False,False,False,0
+28,293.63,INR,Supplies,Each political run child budget especially truth.,2025-01-31,Rejected,Vendor_7,IT,AU,False,False,False,False,0
+1,913.46,INR,Supplies,Which by though employee whether.,2025-07-16,Approved,Vendor_9,HR,UK,False,False,True,False,1
+5,687.89,GBP,Accommodation,Rule newspaper force open play sense.,2025-06-11,Approved,Vendor_6,Sales,UK,False,False,False,False,0
+33,641.01,EUR,Meals,Ten ball camera late peace news one.,2025-06-20,Approved,Vendor_6,Finance,UK,False,False,False,False,0
+8,54.3,EUR,Entertainment,Couple happen raise article.,2025-07-26,Rejected,Vendor_7,HR,UK,False,False,False,False,0
+43,80.71,AUD,Meals,Have church type our chair able.,2025-07-27,Approved,Vendor_4,IT,USA,False,False,False,False,0
+48,751.78,GBP,Entertainment,Daughter less computer year improve air memory.,2025-07-03,Approved,Vendor_10,Sales,IN,False,False,False,False,0
+37,774.97,AUD,Entertainment,Recognize any small.,2025-04-08,Approved,Vendor_8,IT,UK,False,False,False,False,0
+23,855.43,AUD,Supplies,Hear edge film why nation different another.,2025-08-10,Approved,Vendor_1,Finance,USA,False,False,False,False,0
+9,220.94,INR,Entertainment,Once game kid.,2025-03-07,Approved,Vendor_4,Sales,USA,False,False,False,False,0
+29,92.06,USD,Supplies,Understand official whether share.,2025-09-15,Approved,Vendor_5,HR,EU,False,False,False,False,0
+5,724.74,USD,Supplies,Simply election number represent medical the can interest.,2025-08-23,Approved,Vendor_3,Sales,IN,False,False,False,False,0
+8,145.01,GBP,Accommodation,Stay doctor indeed half why.,2025-09-19,Approved,Vendor_6,Sales,EU,False,False,False,False,0
+4,95.44,USD,Entertainment,While knowledge card hour.,2025-08-16,Approved,Vendor_3,Sales,UK,False,False,False,False,0
+32,752.85,USD,Meals,Third interesting fire choice improve program then.,2025-08-13,Rejected,Vendor_2,Finance,IN,False,False,False,False,0
+17,437.05,GBP,Travel,Face eight forward require bed company happy lead.,2025-01-11,Rejected,Vendor_1,Sales,IN,False,False,False,False,0
+42,825.09,AUD,Accommodation,Debate stop rule western.,2025-07-16,Approved,Vendor_10,Finance,IN,False,False,False,False,0
+42,676.74,AUD,Meals,New employee defense hold site can election treatment.,2025-02-04,Rejected,Vendor_9,HR,AU,False,False,False,False,0
+45,958.03,EUR,Entertainment,Simply than study in believe show.,2025-04-12,Approved,Vendor_1,HR,EU,False,False,False,False,0
+32,735.35,USD,Accommodation,Space lot catch marriage.,2025-02-19,Approved,Vendor_1,HR,EU,False,False,False,False,0
+10,472.48,INR,Accommodation,When a available hot look drug including.,2025-05-21,Approved,Vendor_8,HR,IN,False,False,False,False,0
+16,161.81,USD,Travel,If although group suddenly bring week soldier investment.,2025-04-01,Approved,Vendor_7,IT,IN,False,False,False,False,0
+30,792.76,EUR,Supplies,Pattern young movement break.,2025-02-07,Approved,Vendor_4,IT,IN,False,False,False,False,0
+15,905.21,GBP,Entertainment,Star operation manage soldier challenge fish.,2025-01-25,Rejected,Vendor_4,HR,AU,False,False,False,False,0
+35,873.79,INR,Supplies,Sign way truth.,2025-07-02,Approved,Vendor_9,HR,AU,False,False,False,False,0
+20,18.2,INR,Entertainment,Policy anything analysis thousand should likely.,2025-06-28,Approved,Vendor_4,IT,UK,False,False,False,False,0
+49,487.34,USD,Travel,Number school east.,2025-05-18,Approved,Vendor_4,Sales,IN,False,False,False,False,0
+43,915.47,AUD,Accommodation,Office figure energy despite.,2025-08-21,Approved,Vendor_3,Sales,USA,False,False,False,False,0
+16,991.34,INR,Supplies,Stock as character.,2025-07-22,Approved,Vendor_8,Finance,AU,False,False,False,False,0
+2,57.1,AUD,Accommodation,Week sure along move visit politics red he.,2025-01-13,Approved,Vendor_6,Sales,AU,False,False,True,False,1
+30,430.63,EUR,Meals,Door actually seek east maintain care wind window.,2025-09-27,Approved,Vendor_5,Finance,USA,False,False,False,False,0
+24,377.72,USD,Accommodation,Control whose along.,2025-02-21,Approved,Vendor_10,Sales,USA,False,False,False,False,0
+39,747.35,GBP,Supplies,Community wonder lose black eight possible.,2025-01-11,Approved,Vendor_1,IT,UK,False,False,False,False,0
+27,262.69,EUR,Entertainment,Receive risk serve system.,2025-02-26,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+31,794.09,AUD,Supplies,After hot subject claim stuff change common.,2025-07-07,Approved,Vendor_9,Finance,USA,False,False,False,False,0
+27,171.86,AUD,Travel,Doctor role management sometimes past military blue.,2025-04-09,Approved,Vendor_10,IT,EU,False,False,False,False,0
+31,750.76,INR,Entertainment,Beautiful memory parent defense bar see city.,2025-06-21,Approved,Vendor_4,HR,UK,False,False,False,False,0
+42,321.78,USD,Travel,Hear several movie term set next ahead.,2025-04-07,Approved,Vendor_4,Finance,AU,False,False,False,False,0
+25,749.39,EUR,Accommodation,Degree us data these.,2025-08-11,Approved,Vendor_4,Finance,EU,False,False,False,False,0
+9,740.69,EUR,Meals,Image institution you business picture before.,2025-07-19,Rejected,Vendor_6,HR,AU,False,False,False,False,0
+13,419.78,INR,Travel,Interview manage probably phone state join spend window.,2025-04-06,Approved,Vendor_2,Sales,USA,False,False,False,False,0
+38,893.26,EUR,Entertainment,Democratic world them south we democratic support school.,2025-07-24,Approved,Vendor_1,Finance,IN,False,False,False,False,0
+42,814.86,EUR,Travel,Even large right idea person difficult brother possible.,2025-08-08,Rejected,Vendor_1,Sales,IN,False,False,False,False,0
+32,490.49,USD,Accommodation,Rule garden cold whom entire audience see.,2025-01-12,Approved,Vendor_8,Sales,UK,False,False,False,False,0
+4,815.8,GBP,Travel,Player wind try value walk impact science.,2025-02-14,Approved,Vendor_4,Sales,AU,False,False,False,False,0
+20,92.31,AUD,Supplies,Member inside protect close current.,2025-05-28,Approved,Vendor_1,IT,EU,False,False,False,False,0
+45,262.09,EUR,Entertainment,Across explain reflect machine learn.,2025-02-06,Approved,Vendor_1,HR,EU,False,False,False,False,0
+36,968.36,GBP,Travel,Center base stock about.,2025-07-12,Approved,Vendor_10,Finance,UK,False,False,False,False,0
+26,42.7,GBP,Accommodation,Size technology new glass.,2025-09-06,Rejected,Vendor_3,Sales,UK,False,False,False,False,0
+39,177.74,INR,Supplies,Know imagine itself.,2025-09-22,Approved,Vendor_5,HR,IN,False,False,False,False,0
+42,184.98,INR,Meals,Feel each prepare commercial site meeting wear.,2025-09-20,Approved,Vendor_9,IT,USA,False,False,False,False,0
+23,563.57,INR,Supplies,Then adult catch doctor the skill.,2025-04-29,Rejected,Vendor_9,Finance,IN,False,False,False,False,0
+19,718.58,EUR,Entertainment,Response serve interest could.,2025-04-27,Approved,Vendor_4,Finance,UK,False,False,False,False,0
+42,955.47,EUR,Meals,Spend PM quality lay voice.,2025-06-23,Rejected,Vendor_10,Finance,AU,False,False,False,False,0
+1,788.92,EUR,Supplies,Teach simply reduce produce country never.,2025-05-28,Rejected,Vendor_5,Finance,AU,False,False,True,False,1
+44,235.4,USD,Supplies,Beat else five.,2025-08-31,Approved,Vendor_3,Sales,AU,False,False,False,False,0
+39,376.6,GBP,Supplies,Bar prevent policy walk.,2025-01-11,Rejected,Vendor_9,Sales,EU,False,False,False,False,0
+43,770.29,USD,Accommodation,Rock government theory worry.,2025-01-11,Approved,Vendor_1,Sales,UK,False,False,False,False,0
+2,269.0,AUD,Meals,Perhaps part nice Republican who memory easy.,2025-04-03,Approved,Vendor_10,IT,EU,False,False,False,False,0
+47,78.42,EUR,Supplies,Firm type window attorney station.,2025-05-29,Approved,Vendor_4,Sales,IN,False,False,True,False,1
+24,846.93,GBP,Entertainment,We official artist our edge fine each foot.,2025-01-31,Approved,Vendor_2,Finance,AU,False,False,False,False,0
+15,273.81,GBP,Meals,Task across international.,2025-01-23,Rejected,Vendor_7,IT,EU,False,False,False,False,0
+26,171.77,AUD,Supplies,Even opportunity door mention significant region.,2025-05-03,Approved,Vendor_7,IT,EU,False,False,False,False,0
+16,868.57,GBP,Entertainment,Management certainly cost expect smile similar talk.,2025-01-21,Rejected,Vendor_4,Finance,USA,False,False,False,False,0
+9,105.78,USD,Entertainment,Age moment relationship upon no help.,2025-06-10,Approved,Vendor_7,IT,EU,False,False,False,False,0
+9,674.85,EUR,Meals,Weight more sister.,2025-02-26,Approved,Vendor_9,Sales,AU,False,False,False,False,0
+22,604.42,INR,Accommodation,Stay reality mean single glass religious.,2025-02-20,Approved,Vendor_4,IT,USA,False,False,False,False,0
+31,681.51,EUR,Entertainment,Candidate physical story foreign course add.,2025-09-11,Approved,Vendor_7,IT,USA,False,False,False,False,0
+5,145.59,USD,Travel,Stay bad feeling write month central.,2025-05-02,Approved,Vendor_9,Sales,AU,False,False,False,False,0
+50,896.42,AUD,Travel,Campaign do other determine.,2025-01-22,Approved,Vendor_7,IT,UK,False,False,True,False,1
+48,427.56,EUR,Travel,Message total film standard carry audience quality.,2025-03-23,Approved,Vendor_3,IT,EU,False,False,False,False,0
+45,813.41,GBP,Travel,Reduce question bit.,2025-02-24,Approved,Vendor_1,Sales,EU,False,False,False,False,0
+21,736.76,USD,Entertainment,Debate piece remember film whether.,2025-03-30,Approved,Vendor_7,Sales,EU,False,False,False,False,0
+10,637.0,INR,Travel,Artist myself image.,2025-09-06,Approved,Vendor_8,Sales,IN,False,False,False,False,0
+24,875.65,USD,Supplies,Court discuss beautiful here.,2025-01-07,Rejected,Vendor_8,Finance,UK,False,False,False,False,0
+49,645.62,EUR,Supplies,Democratic act music remember imagine everybody western drop.,2025-05-26,Approved,Vendor_7,IT,EU,False,False,False,False,0
+13,60.51,AUD,Accommodation,Policy design put day production boy.,2025-02-25,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+38,940.82,GBP,Travel,Use someone nation half prove.,2025-06-03,Rejected,Vendor_10,Sales,IN,False,False,False,False,0
+19,71.65,EUR,Supplies,Only room during bank.,2025-07-09,Approved,Vendor_7,IT,UK,False,False,False,False,0
+34,372.26,INR,Meals,And traditional have scene herself player democratic.,2025-03-06,Approved,Vendor_8,Sales,EU,False,False,False,False,0
+5,274.29,INR,Travel,Out series black early animal anything.,2025-06-08,Approved,Vendor_1,Sales,USA,False,False,False,False,0
+20,879.03,INR,Meals,Impact tend whose model difficult central.,2025-08-22,Approved,Vendor_10,Sales,USA,False,False,False,False,0
+31,30.37,GBP,Meals,Determine there bad value wind wife.,2025-08-11,Approved,Vendor_2,HR,AU,False,False,False,False,0
+2,310.5,EUR,Meals,Tell far yet receive could would society.,2025-09-06,Approved,Vendor_1,HR,AU,False,False,False,False,0
+11,350.34,AUD,Travel,Increase put ground act need instead.,2025-01-31,Rejected,Vendor_1,Sales,USA,False,False,False,False,0
+6,695.36,INR,Entertainment,Them sport seem Congress nor.,2025-01-23,Approved,Vendor_7,HR,IN,False,False,False,False,0
+34,245.87,EUR,Supplies,Control around key into without present rich off.,2025-06-06,Rejected,Vendor_2,HR,IN,False,False,False,False,0
+46,327.77,USD,Meals,School assume prevent top fact partner artist particular.,2025-06-18,Approved,Vendor_7,Finance,IN,False,False,False,False,0
+27,814.37,EUR,Supplies,Ability he age ahead spring.,2025-07-26,Approved,Vendor_10,Sales,UK,False,False,False,False,0
+40,845.46,INR,Entertainment,Evidence throughout again raise strong focus.,2025-07-01,Approved,Vendor_3,IT,UK,False,False,False,False,0
+33,857.26,AUD,Meals,Work make hope civil.,2025-01-30,Approved,Vendor_5,Sales,UK,False,False,False,False,0
+15,422.28,EUR,Entertainment,Small reason report dark process forward.,2025-01-17,Approved,Vendor_5,Sales,EU,False,False,False,False,0
+3,452.98,GBP,Entertainment,Network discuss her action set.,2025-05-14,Approved,Vendor_9,IT,AU,False,False,False,False,0
+43,177.99,AUD,Travel,Address tax interview continue.,2025-06-13,Approved,Vendor_6,IT,IN,False,False,False,False,0
+48,819.36,AUD,Supplies,Against player meet mention successful interview goal less.,2025-09-27,Approved,Vendor_8,Sales,AU,False,False,False,False,0
+30,843.06,AUD,Accommodation,Decade center floor garden but experience.,2025-01-12,Approved,Vendor_5,IT,USA,False,False,False,False,0
+10,253.31,AUD,Accommodation,Film such something three evening.,2025-07-06,Approved,Vendor_5,Sales,AU,False,False,False,False,0
+23,664.92,INR,Supplies,Particular stay recognize treat great both.,2025-08-05,Approved,Vendor_2,Sales,UK,False,False,False,False,0
+41,969.02,EUR,Supplies,White staff class section.,2025-04-14,Approved,Vendor_3,Sales,UK,False,False,False,False,0
+43,91.06,GBP,Supplies,Those cultural gas structure building individual.,2025-01-31,Approved,Vendor_8,Sales,EU,False,False,False,False,0
+49,278.1,AUD,Supplies,Ahead learn establish apply stuff treat.,2025-08-10,Approved,Vendor_3,HR,UK,False,False,False,False,0
+2,398.38,INR,Supplies,Whatever cultural keep cultural.,2025-01-16,Approved,Vendor_4,Sales,AU,False,False,False,False,0
+38,674.13,USD,Accommodation,Worker foot card bed be discussion nor.,2025-07-01,Approved,Vendor_2,Sales,IN,False,False,False,False,0
+25,260.88,EUR,Accommodation,Official body trouble line.,2025-08-10,Approved,Vendor_3,IT,EU,False,False,False,False,0
+5,605.24,INR,Entertainment,Particularly similar list.,2025-03-07,Approved,Vendor_1,HR,IN,False,False,False,False,0
+4,860.76,USD,Meals,Letter bad consider.,2025-01-13,Approved,Vendor_4,IT,USA,False,False,False,False,0
+40,97.56,GBP,Accommodation,President recent speech billion born history.,2025-08-08,Approved,Vendor_4,IT,EU,False,False,False,False,0
+20,951.34,AUD,Meals,Ball executive together indicate improve.,2025-05-26,Approved,Vendor_5,IT,AU,False,False,False,False,0
+41,945.29,INR,Entertainment,Focus process out up child paper truth.,2025-06-18,Approved,Vendor_9,IT,EU,False,False,False,False,0
+28,16.52,GBP,Entertainment,Kitchen head clearly debate word enter.,2025-03-02,Rejected,Vendor_9,Sales,IN,False,False,False,False,0
+37,28.86,USD,Entertainment,Decide just really scientist little Congress enter.,2025-01-23,Approved,Vendor_7,IT,EU,False,False,False,False,0
+39,260.51,GBP,Meals,Cultural soon window great trade.,2025-05-01,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+7,630.45,INR,Meals,Maybe north from room great see vote.,2025-07-07,Approved,Vendor_3,HR,EU,False,False,False,False,0
+45,398.41,GBP,Travel,Chair region federal newspaper region food issue list.,2025-07-08,Rejected,Vendor_10,Finance,UK,False,False,False,False,0
+35,712.95,INR,Entertainment,Exist type generation suddenly.,2025-03-22,Approved,Vendor_2,IT,USA,False,False,False,False,0
+29,683.38,INR,Supplies,Early foot body him surface apply.,2025-04-06,Approved,Vendor_5,Sales,EU,False,False,False,False,0
+39,568.09,EUR,Travel,Child the imagine perhaps important give hospital.,2025-02-28,Rejected,Vendor_3,HR,USA,False,False,False,False,0
+9,949.37,INR,Travel,Soldier race and perform wonder notice simple.,2025-02-16,Rejected,Vendor_1,Finance,USA,False,False,False,False,0
+50,295.74,AUD,Accommodation,Class cost job represent sign suffer account dog.,2025-08-14,Approved,Vendor_3,IT,AU,False,False,False,False,0
+44,11.98,EUR,Travel,American carry Democrat black out lot race whatever.,2025-08-21,Approved,Vendor_5,HR,IN,False,False,True,False,1
+30,137.94,GBP,Entertainment,Agree window talk reach itself ground.,2025-01-19,Approved,Vendor_9,Finance,USA,False,False,False,False,0
+7,45.95,USD,Entertainment,Close already learn hear low record.,2025-08-11,Approved,Vendor_1,IT,IN,False,False,False,False,0
+20,989.86,AUD,Meals,Pass decision hair.,2025-08-24,Approved,Vendor_8,IT,EU,False,False,False,False,0
+21,906.54,USD,Supplies,Suffer girl determine popular about list news travel.,2025-09-17,Approved,Vendor_1,IT,USA,False,False,False,False,0
+33,535.67,AUD,Travel,Stay strong record true already or writer.,2025-04-24,Approved,Vendor_3,Sales,AU,False,False,False,False,0
+31,658.1,EUR,Supplies,Prevent environment new visit upon along citizen.,2025-05-25,Approved,Vendor_6,Finance,USA,False,False,False,False,0
+25,285.12,INR,Accommodation,Yes image process fine by.,2025-09-27,Rejected,Vendor_5,HR,USA,False,False,False,False,0
+20,800.05,GBP,Meals,Local character dark create.,2025-07-19,Approved,Vendor_10,Sales,AU,False,False,False,False,0
+22,277.33,USD,Travel,Design prove part practice data.,2025-04-18,Approved,Vendor_7,HR,UK,False,False,False,False,0
+21,611.25,INR,Travel,Sport someone nothing night.,2025-01-27,Approved,Vendor_5,HR,UK,False,False,False,False,0
+35,334.4,EUR,Meals,Result leg yet pay any ball education.,2025-03-13,Approved,Vendor_3,Sales,UK,False,False,False,False,0
+40,32.29,AUD,Entertainment,Turn win current subject issue.,2025-01-11,Rejected,Vendor_2,Finance,AU,False,False,False,False,0
+28,209.41,GBP,Accommodation,Though paper rock girl example.,2025-05-17,Approved,Vendor_1,IT,USA,False,False,False,False,0
+42,148.47,EUR,Entertainment,Car data forward sort theory method.,2025-04-01,Approved,Vendor_7,Sales,USA,False,False,False,False,0
+13,521.6,GBP,Entertainment,Star heart if serious themselves hospital state.,2025-05-04,Approved,Vendor_9,Finance,IN,False,False,False,False,0
+10,813.32,USD,Accommodation,Traditional heart speech should hold kind road.,2025-05-04,Rejected,Vendor_2,Finance,EU,False,False,False,False,0
+5,999.61,EUR,Entertainment,Smile threat new we enough.,2025-07-23,Approved,Vendor_4,HR,IN,False,False,True,False,1
+16,133.11,GBP,Supplies,Skin such site every determine film.,2025-08-25,Approved,Vendor_5,HR,USA,False,False,False,False,0
+2,596.07,INR,Accommodation,Rich top although lawyer blue rise change another.,2025-08-08,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+50,419.4,USD,Meals,Need research since spring money.,2025-05-30,Rejected,Vendor_7,Finance,UK,False,False,True,False,1
+2,477.96,GBP,Entertainment,Water mind rule real capital assume both.,2025-01-22,Approved,Vendor_7,Finance,UK,False,False,False,False,0
+44,547.85,GBP,Travel,Environment social any section somebody read.,2025-08-15,Approved,Vendor_6,Finance,USA,False,False,False,False,0
+9,389.36,AUD,Travel,Senior image your case glass team.,2025-09-18,Approved,Vendor_7,IT,EU,False,False,False,False,0
+9,542.1,EUR,Entertainment,Loss case expert begin interest lay.,2025-08-08,Approved,Vendor_7,Sales,IN,False,False,False,False,0
+49,693.16,GBP,Accommodation,Think three I war.,2025-05-21,Rejected,Vendor_9,HR,USA,False,False,False,False,0
+8,941.04,EUR,Meals,Hard why apply.,2025-09-01,Approved,Vendor_10,HR,USA,False,False,False,False,0
+5,19.12,INR,Meals,Stay but approach live single challenge than.,2025-07-11,Approved,Vendor_8,Sales,UK,False,False,True,False,1
+44,549.77,AUD,Entertainment,Quite from responsibility cover billion.,2025-07-24,Approved,Vendor_5,Sales,AU,False,False,False,False,0
+21,752.58,AUD,Entertainment,World born play.,2025-09-04,Approved,Vendor_4,Finance,USA,False,False,False,False,0
+36,794.84,USD,Entertainment,Cost newspaper dog manage.,2025-01-23,Rejected,Vendor_3,HR,UK,False,False,False,False,0
+15,149.53,USD,Meals,Practice draw risk pretty place first near.,2025-06-21,Rejected,Vendor_10,Finance,UK,False,False,False,False,0
+48,317.28,GBP,Accommodation,Agreement western church we cover.,2025-03-21,Approved,Vendor_7,HR,EU,False,False,False,False,0
+21,551.72,USD,Travel,Foot in year.,2025-07-27,Approved,Vendor_10,HR,UK,False,False,False,False,0
+16,455.35,INR,Meals,Per data sign four.,2025-09-01,Approved,Vendor_1,HR,UK,False,False,False,False,0
+7,772.74,INR,Meals,Son compare whose image.,2025-07-14,Approved,Vendor_3,Finance,USA,False,False,False,False,0
+31,922.97,AUD,Meals,Wait garden church wear behavior.,2025-04-03,Approved,Vendor_6,Sales,EU,False,False,False,False,0
+12,994.33,INR,Accommodation,Skill and happen soon manage see.,2025-02-04,Approved,Vendor_9,Sales,AU,False,False,False,False,0
+34,676.65,USD,Travel,Something whom other truth room.,2025-09-19,Approved,Vendor_1,IT,USA,False,False,False,False,0
+20,193.81,EUR,Supplies,Must easy later player sing here.,2025-05-25,Rejected,Vendor_6,Sales,EU,False,False,False,False,0
+23,96.69,USD,Supplies,Name voice management technology move send.,2025-03-07,Approved,Vendor_10,Finance,IN,False,False,False,False,0
+19,778.95,AUD,Travel,Against stage factor forward by.,2025-09-24,Approved,Vendor_2,IT,UK,False,False,False,False,0
+11,834.77,GBP,Entertainment,Task item ask rather real shake.,2025-08-20,Approved,Vendor_5,HR,IN,False,False,False,False,0
+42,433.4,AUD,Accommodation,Hard different serve.,2025-03-17,Approved,Vendor_7,Finance,AU,False,False,False,False,0
+4,709.7,AUD,Entertainment,Military behind increase suddenly president size certainly.,2025-08-07,Approved,Vendor_5,HR,AU,False,False,False,False,0
+17,484.14,USD,Travel,Fly voice author already stuff American.,2025-03-07,Approved,Vendor_6,IT,EU,False,False,False,False,0
+27,210.08,USD,Entertainment,Feeling do least standard western.,2025-09-20,Rejected,Vendor_8,HR,USA,False,False,False,False,0
+7,168.7,EUR,Meals,Gas Mrs career political life pass education.,2025-07-30,Rejected,Vendor_8,Sales,USA,False,False,False,False,0
+12,713.8,INR,Entertainment,Actually once prove ground too stuff.,2025-09-19,Approved,Vendor_4,HR,UK,False,False,False,False,0
+15,997.2,INR,Meals,Study determine respond magazine you prevent rise.,2025-07-22,Rejected,Vendor_5,Finance,IN,False,False,False,False,0
+40,818.77,USD,Supplies,Phone explain goal produce difficult as.,2025-07-19,Rejected,Vendor_10,IT,IN,False,False,False,False,0
+36,893.26,AUD,Meals,Section others city mission.,2025-06-02,Approved,Vendor_10,IT,IN,False,False,False,False,0
+15,350.6,INR,Travel,Character suddenly whom war image our.,2025-09-05,Approved,Vendor_3,HR,EU,False,False,False,False,0
+47,12.48,USD,Travel,Structure imagine article responsibility.,2025-04-23,Approved,Vendor_2,Sales,USA,False,False,True,False,1
+37,424.65,INR,Meals,Quality risk create suffer bill citizen official as.,2025-02-18,Approved,Vendor_7,Sales,USA,False,False,False,False,0
+47,798.24,EUR,Entertainment,Move between onto.,2025-06-07,Rejected,Vendor_8,Sales,IN,False,False,False,False,0
+16,879.33,USD,Entertainment,Somebody lead current.,2025-01-28,Rejected,Vendor_8,HR,EU,False,False,False,False,0
+14,938.88,INR,Travel,Beautiful source among boy worry.,2025-07-30,Approved,Vendor_6,HR,EU,False,False,False,False,0
+35,632.31,USD,Accommodation,Everybody industry than skill beat nation.,2025-05-19,Approved,Vendor_10,IT,EU,False,False,False,False,0
+40,66.52,AUD,Supplies,Reason beat around six quite ahead seven.,2025-05-10,Approved,Vendor_1,Finance,AU,False,False,False,False,0
+26,103.17,GBP,Accommodation,Kid against important military.,2025-04-20,Rejected,Vendor_2,IT,EU,False,False,False,False,0
+48,626.54,INR,Entertainment,Our money large article speech management entire.,2025-09-29,Approved,Vendor_4,HR,EU,False,False,False,False,0
+25,686.82,GBP,Travel,Stock enough everything card exist successful off.,2025-08-13,Approved,Vendor_1,Finance,EU,False,False,False,False,0
+26,946.82,AUD,Entertainment,Very run teach sort conference.,2025-09-29,Rejected,Vendor_8,Finance,USA,False,False,False,False,0
+8,316.56,GBP,Travel,Trouble democratic arrive race.,2025-07-26,Approved,Vendor_4,HR,EU,False,False,False,False,0
+50,262.77,GBP,Accommodation,Fear card purpose hot sure successful.,2025-01-07,Approved,Vendor_7,Sales,UK,False,False,False,False,0
+9,673.3,GBP,Travel,Operation national wide possible coach value.,2025-03-09,Approved,Vendor_5,Sales,IN,False,False,False,False,0
+28,293.85,INR,Supplies,Understand new school American address page behind.,2025-05-10,Approved,Vendor_10,Sales,UK,False,False,False,False,0
+38,627.67,INR,Supplies,Couple value smile your production song.,2025-05-26,Approved,Vendor_7,Sales,AU,False,False,False,False,0
+30,735.35,GBP,Travel,Lot save computer receive around see few.,2025-09-25,Approved,Vendor_8,Sales,EU,False,False,False,False,0
+43,957.44,EUR,Accommodation,Lead card low dark successful.,2025-05-12,Approved,Vendor_8,Sales,AU,False,False,False,False,0
+10,150.59,GBP,Travel,Catch military country sound newspaper.,2025-06-24,Approved,Vendor_9,Sales,UK,False,False,False,False,0
+47,671.3,GBP,Meals,Would challenge gas land rest they magazine.,2025-02-20,Approved,Vendor_7,HR,AU,False,False,False,False,0
+27,898.58,EUR,Entertainment,Senior reality body.,2025-08-02,Rejected,Vendor_1,IT,USA,False,False,False,False,0
+38,782.08,GBP,Meals,Serious can present very market.,2025-06-27,Approved,Vendor_4,HR,USA,False,False,False,False,0
+49,95.06,EUR,Accommodation,Follow sometimes environment across large.,2025-01-06,Approved,Vendor_1,Finance,AU,False,False,True,False,1
+16,783.75,INR,Entertainment,Staff too pick how.,2025-05-17,Rejected,Vendor_6,HR,AU,False,False,False,False,0
+33,186.68,USD,Meals,Others these need wish.,2025-05-03,Approved,Vendor_10,HR,IN,False,False,False,False,0
+7,157.49,AUD,Meals,Lot sea recently kitchen avoid behind attorney.,2025-08-27,Rejected,Vendor_4,IT,AU,False,False,False,False,0
+11,168.93,USD,Meals,Building low pretty opportunity decade certain happy.,2025-04-21,Approved,Vendor_7,IT,EU,False,False,False,False,0
+50,705.87,EUR,Travel,School police community.,2025-05-23,Approved,Vendor_7,HR,USA,False,False,True,False,1
+28,310.75,EUR,Supplies,One issue oil skill pick soon entire.,2025-01-18,Approved,Vendor_8,Sales,USA,False,False,False,False,0
+42,746.31,AUD,Entertainment,Though to billion build quality production management.,2025-06-03,Approved,Vendor_1,HR,UK,False,False,False,False,0
+33,305.81,AUD,Supplies,Five clear yard specific between.,2025-06-21,Rejected,Vendor_9,HR,UK,False,False,False,False,0
+9,406.51,INR,Travel,Writer style assume pass.,2025-08-20,Rejected,Vendor_6,Finance,EU,False,False,False,False,0
+9,86.53,EUR,Travel,True computer improve baby thus white.,2025-06-06,Approved,Vendor_3,IT,EU,False,False,False,False,0
+11,544.5,USD,Accommodation,Realize camera question buy arm.,2025-07-20,Approved,Vendor_6,IT,EU,False,False,False,False,0
+17,342.95,GBP,Travel,Good product benefit service.,2025-01-18,Approved,Vendor_2,Sales,IN,False,False,False,False,0
+28,21.91,INR,Supplies,Near century too kind evening leg.,2025-06-29,Approved,Vendor_3,Sales,IN,False,False,False,False,0
+37,758.85,AUD,Entertainment,Finish detail almost thank discuss wide.,2025-04-07,Approved,Vendor_3,Sales,AU,False,False,False,False,0
+8,959.04,GBP,Entertainment,Stand large understand third long drive while weight.,2025-03-07,Approved,Vendor_5,IT,AU,False,False,False,False,0
+35,649.05,INR,Entertainment,Down news space down dinner want hundred force.,2025-06-16,Approved,Vendor_10,Sales,IN,False,False,False,False,0
+12,977.88,GBP,Accommodation,Game serious month large itself family cut Congress.,2025-02-10,Approved,Vendor_6,HR,IN,False,False,False,False,0
+26,887.25,AUD,Accommodation,Practice well up seat.,2025-04-26,Approved,Vendor_5,Sales,EU,False,False,False,False,0
+7,684.85,GBP,Accommodation,Important well sound benefit single nation.,2025-05-16,Approved,Vendor_8,Finance,USA,False,False,False,False,0
+50,431.3,INR,Travel,Six field view often.,2025-04-30,Approved,Vendor_8,Finance,UK,False,False,False,False,0
+32,910.88,USD,Travel,Standard finish street consider play.,2025-02-21,Approved,Vendor_4,HR,EU,False,False,False,False,0
+34,897.36,GBP,Supplies,Interview thousand mean light cut.,2025-09-02,Rejected,Vendor_8,Sales,UK,False,False,False,False,0
+41,973.97,USD,Entertainment,Edge thought certain reveal me hear individual now.,2025-01-23,Approved,Vendor_3,HR,USA,False,False,False,False,0
+23,524.75,EUR,Meals,Recently according much hot weight ground.,2025-04-23,Approved,Vendor_2,IT,EU,False,False,False,False,0
+50,271.07,GBP,Accommodation,Especially but exist clear sit.,2025-02-07,Approved,Vendor_4,HR,USA,False,False,False,False,0
+38,460.72,GBP,Supplies,None far his body site begin reach.,2025-03-08,Approved,Vendor_5,HR,EU,False,False,False,False,0
+33,486.38,EUR,Supplies,Exist different behavior miss.,2025-04-01,Approved,Vendor_2,Finance,USA,False,False,False,False,0
+43,257.59,EUR,Travel,Mrs parent like big.,2025-02-21,Approved,Vendor_8,Finance,IN,False,False,False,False,0
+34,518.3,USD,Accommodation,None according relate leave radio kid respond.,2025-02-07,Approved,Vendor_7,IT,IN,False,False,False,False,0
+27,126.65,INR,Entertainment,Wear side particularly field.,2025-06-29,Rejected,Vendor_3,IT,AU,False,False,False,False,0
+27,476.22,USD,Supplies,Rest under political like likely wrong.,2025-01-16,Approved,Vendor_1,Finance,EU,False,False,False,False,0
+14,761.89,GBP,Supplies,Later evidence cell owner risk course.,2025-05-23,Approved,Vendor_8,Finance,AU,False,False,False,False,0
+3,90.93,GBP,Meals,Through tough indeed commercial marriage mind should.,2025-01-19,Approved,Vendor_2,Finance,AU,False,False,False,False,0
+3,671.36,EUR,Accommodation,Trouble candidate mission.,2025-03-24,Approved,Vendor_4,Sales,UK,False,False,False,False,0
+21,479.5,GBP,Accommodation,Paper attack soldier gun million.,2025-07-20,Approved,Vendor_9,IT,AU,False,False,False,False,0
+41,620.53,USD,Travel,Republican other either reality someone though require leave.,2025-05-05,Approved,Vendor_3,Finance,IN,False,False,False,False,0
+20,201.95,GBP,Entertainment,Defense policy pattern also late.,2025-01-15,Approved,Vendor_1,IT,UK,False,False,False,False,0
+22,200.81,EUR,Supplies,Draw himself nor affect within few statement.,2025-07-06,Rejected,Vendor_4,Finance,AU,False,False,False,False,0
+36,267.01,INR,Meals,Walk next hundred.,2025-08-11,Approved,Vendor_5,IT,IN,False,False,False,False,0
+43,909.42,INR,Meals,Office like especially reach author during.,2025-06-03,Rejected,Vendor_7,HR,UK,False,False,False,False,0
+21,678.64,INR,Meals,Main themselves cup local learn.,2025-05-11,Approved,Vendor_7,IT,USA,False,False,False,False,0
+6,128.77,INR,Supplies,Prevent their letter central.,2025-10-01,Approved,Vendor_5,Finance,USA,False,False,False,False,0
+3,348.3,AUD,Travel,Side over list capital treat clearly.,2025-07-20,Approved,Vendor_7,HR,IN,False,False,False,False,0
+41,502.69,USD,Travel,Affect cost certainly behavior executive.,2025-07-08,Approved,Vendor_2,Sales,IN,False,False,False,False,0
+43,261.05,AUD,Supplies,Too once manager almost.,2025-07-03,Approved,Vendor_3,Finance,USA,False,False,False,False,0
+14,261.72,USD,Meals,Wife pass senior learn economy our.,2025-01-29,Approved,Vendor_1,IT,USA,False,False,False,False,0
+14,207.21,USD,Accommodation,Do because worry brother event trial together staff.,2025-01-30,Approved,Vendor_5,Finance,USA,False,False,False,False,0
+7,578.29,INR,Meals,Example factor respond read inside.,2025-08-07,Approved,Vendor_6,IT,USA,False,False,False,False,0
+1,712.91,USD,Supplies,Public remain enter news among hair design.,2025-05-18,Approved,Vendor_9,Finance,EU,False,False,False,False,0
+22,705.12,INR,Accommodation,End how couple that easy successful.,2025-06-08,Approved,Vendor_5,IT,EU,False,False,False,False,0
+16,429.18,AUD,Accommodation,Career pay set wish red son increase.,2025-01-01,Approved,Vendor_1,IT,EU,False,False,False,False,0
+30,334.94,USD,Entertainment,Car goal newspaper evidence here surface door.,2025-04-04,Approved,Vendor_9,HR,EU,False,False,False,False,0
+5,290.12,EUR,Accommodation,Protect same pressure treatment police city shake.,2025-03-26,Approved,Vendor_4,Finance,IN,False,False,False,False,0
+13,206.24,INR,Accommodation,Impact community indicate set admit as.,2025-05-08,Approved,Vendor_3,HR,IN,False,False,False,False,0
+24,588.36,EUR,Entertainment,Inside gun theory individual.,2025-07-24,Approved,Vendor_3,Finance,EU,False,False,False,False,0
+45,974.44,AUD,Travel,Owner southern test modern where allow idea.,2025-05-12,Approved,Vendor_5,IT,AU,False,False,False,False,0
+38,945.38,AUD,Entertainment,Help likely television deep produce catch it.,2025-07-26,Approved,Vendor_9,IT,EU,False,False,False,False,0
+31,467.04,AUD,Supplies,She of that tell trial.,2025-05-31,Approved,Vendor_9,Sales,EU,False,False,False,False,0
+36,902.62,EUR,Meals,Lawyer certainly understand when unit check surface.,2025-08-12,Rejected,Vendor_3,Sales,UK,False,False,False,False,0
+27,696.25,GBP,Meals,Enjoy help look floor wide.,2025-02-04,Approved,Vendor_10,IT,IN,False,False,False,False,0
+24,721.45,INR,Accommodation,Century prepare road purpose wonder hour with step.,2025-09-10,Approved,Vendor_6,Finance,EU,False,False,False,False,0
+20,360.13,INR,Accommodation,Mr man bar modern suddenly.,2025-09-11,Approved,Vendor_4,IT,AU,False,False,False,False,0
+35,305.54,USD,Supplies,Student mother capital speak.,2025-04-22,Approved,Vendor_7,Finance,EU,False,False,False,False,0
+3,42.73,AUD,Meals,Production grow apply wife artist program former meeting.,2025-02-10,Rejected,Vendor_4,HR,IN,False,False,False,False,0
+19,201.54,INR,Travel,Air when learn worker.,2025-09-05,Approved,Vendor_9,HR,IN,False,False,False,False,0
+36,514.53,USD,Entertainment,Over method apply open.,2025-02-11,Approved,Vendor_9,Finance,IN,False,False,False,False,0
+8,845.03,INR,Meals,Usually more child energy.,2025-08-17,Approved,Vendor_5,Finance,UK,False,False,False,False,0
+30,947.78,INR,Entertainment,Spend different require enjoy hold.,2025-07-10,Approved,Vendor_8,Finance,USA,False,False,False,False,0
+13,992.71,EUR,Supplies,Newspaper find its particular various.,2025-06-06,Approved,Vendor_3,IT,USA,False,False,False,False,0
+24,924.18,INR,Travel,Parent material head coach hard sort ever.,2025-05-10,Approved,Vendor_10,IT,IN,False,False,False,False,0
+45,268.58,USD,Entertainment,Seem week pretty in decide statement turn consumer.,2025-04-25,Rejected,Vendor_1,IT,EU,False,False,False,False,0
+16,536.88,USD,Supplies,History decide create yes.,2025-02-05,Approved,Vendor_10,HR,AU,False,False,False,False,0
+36,713.56,EUR,Travel,Part size never child book according.,2025-06-12,Rejected,Vendor_4,IT,IN,False,False,False,False,0
+19,531.0,AUD,Entertainment,History win woman class language significant.,2025-08-12,Approved,Vendor_5,Sales,USA,False,False,False,False,0
+12,472.64,INR,Supplies,Sit around game his front yourself.,2025-03-09,Approved,Vendor_5,Sales,IN,False,False,False,False,0
+45,324.75,INR,Entertainment,Help tree life dream language common nation.,2025-03-13,Approved,Vendor_10,HR,UK,False,False,False,False,0
+13,627.15,USD,Accommodation,Prove fill vote agent inside worry account expert.,2025-03-01,Approved,Vendor_4,IT,USA,False,False,False,False,0
+33,442.64,USD,Accommodation,Want other deep establish media man.,2025-02-20,Approved,Vendor_6,HR,UK,False,False,False,False,0
+23,118.1,EUR,Supplies,By particular range case.,2025-05-23,Rejected,Vendor_5,IT,USA,False,False,False,False,0
+50,830.02,EUR,Meals,Marriage send within avoid according health.,2025-01-14,Approved,Vendor_1,HR,AU,False,False,True,False,1
+27,490.33,EUR,Entertainment,Mr ago beyond answer.,2025-02-27,Approved,Vendor_8,IT,EU,False,False,False,False,0
+13,783.5,AUD,Supplies,Send provide wear during shake.,2025-02-18,Approved,Vendor_4,Sales,USA,False,False,False,False,0
+41,718.39,AUD,Travel,Vote series certainly back remain cell design.,2025-01-11,Approved,Vendor_8,Finance,AU,False,False,False,False,0
+38,905.77,INR,Meals,Learn build task quickly entire.,2025-05-24,Approved,Vendor_4,HR,EU,False,False,False,False,0
+9,728.29,INR,Travel,Serious control paper similar real respond.,2025-01-15,Rejected,Vendor_1,Finance,UK,False,False,False,False,0
+11,699.37,EUR,Supplies,Late free police.,2025-08-19,Approved,Vendor_4,Sales,AU,False,False,False,False,0
+23,944.58,AUD,Accommodation,Hundred those us present.,2025-07-19,Rejected,Vendor_10,Finance,EU,False,False,False,False,0
+17,41.56,GBP,Entertainment,Husband magazine look perhaps his father amount.,2025-02-16,Approved,Vendor_6,Finance,AU,False,False,False,False,0
+23,969.43,EUR,Travel,Culture yeah stage hot discover staff benefit.,2025-05-07,Approved,Vendor_3,HR,USA,False,False,False,False,0
+21,256.95,INR,Travel,Relate bring tell yes.,2025-06-26,Approved,Vendor_5,HR,AU,False,False,False,False,0
+21,979.66,EUR,Entertainment,Perform fund debate indicate.,2025-08-10,Approved,Vendor_6,Sales,IN,False,False,False,False,0
+4,18.07,INR,Entertainment,Oil mind watch their month east.,2025-05-14,Approved,Vendor_5,Finance,AU,False,False,True,False,1
+24,194.13,GBP,Accommodation,Man eye picture participant for nice however exist.,2025-04-09,Approved,Vendor_1,Finance,IN,False,False,False,False,0
+15,87.27,INR,Entertainment,Wear economic number drug reduce size.,2025-06-17,Rejected,Vendor_7,Finance,USA,False,False,False,False,0
+2,454.89,INR,Travel,Store floor should.,2025-05-21,Approved,Vendor_2,Sales,AU,False,False,False,False,0
+16,424.95,USD,Supplies,Smile base buy.,2025-01-20,Approved,Vendor_3,IT,EU,False,False,False,False,0
+35,121.62,GBP,Entertainment,Positive life join line full effect way president.,2025-06-03,Approved,Vendor_4,Sales,IN,False,False,False,False,0
+49,672.73,GBP,Travel,Idea discover social girl hour call.,2025-09-26,Rejected,Vendor_1,HR,USA,False,False,False,False,0
+5,293.14,AUD,Entertainment,Model same future above indicate since.,2025-05-16,Approved,Vendor_6,IT,UK,False,False,False,False,0
+34,257.89,EUR,Entertainment,Security piece movie region.,2025-06-25,Approved,Vendor_5,IT,AU,False,False,False,False,0
+23,328.79,GBP,Travel,Reveal daughter take.,2025-06-17,Rejected,Vendor_5,IT,UK,False,False,False,False,0
+23,981.62,GBP,Supplies,Newspaper lot program board sort.,2025-01-21,Approved,Vendor_5,IT,USA,False,False,False,False,0
+35,228.24,AUD,Supplies,Say factor least.,2025-01-01,Approved,Vendor_9,Sales,EU,False,False,False,False,0
+19,859.49,AUD,Travel,Impact court commercial less.,2025-06-11,Approved,Vendor_2,Finance,UK,False,False,False,False,0
+4,173.73,GBP,Travel,Together today despite future almost investment fear.,2025-01-02,Rejected,Vendor_3,HR,UK,False,False,False,False,0
+45,925.73,USD,Travel,Card international capital people put apply.,2025-01-18,Approved,Vendor_9,Sales,IN,False,False,False,False,0
+13,209.99,INR,Entertainment,Surface teach old development ago list allow.,2025-05-28,Approved,Vendor_5,IT,IN,False,False,False,False,0
+30,423.99,GBP,Entertainment,However admit candidate goal.,2025-04-12,Approved,Vendor_10,HR,EU,False,False,False,False,0
+19,521.88,INR,Meals,Summer air reflect good.,2025-08-09,Approved,Vendor_5,IT,IN,False,False,False,False,0
+25,296.01,GBP,Accommodation,Consider better view the type.,2025-08-26,Approved,Vendor_7,IT,USA,False,False,False,False,0
+37,633.95,GBP,Travel,Catch value body care.,2025-07-12,Approved,Vendor_6,IT,IN,False,False,False,False,0
+10,349.34,AUD,Travel,Game sound skin.,2025-08-07,Rejected,Vendor_2,Sales,USA,False,False,False,False,0
+8,432.3,AUD,Entertainment,Standard moment health others hot foot benefit catch.,2025-01-03,Rejected,Vendor_2,HR,AU,False,False,False,False,0
+25,811.91,EUR,Meals,American draw writer pick professor what table.,2025-05-22,Rejected,Vendor_2,HR,UK,False,False,False,False,0
+48,982.81,GBP,Travel,Standard man something business despite general central.,2025-09-03,Approved,Vendor_4,HR,USA,False,False,True,False,1
+31,208.73,USD,Travel,Food late car.,2025-08-20,Approved,Vendor_6,Finance,EU,False,False,False,False,0
+43,168.94,GBP,Supplies,Look behavior successful smile.,2025-09-14,Approved,Vendor_1,Finance,EU,False,False,False,False,0
+14,557.7,GBP,Supplies,Hair boy analysis back later attention.,2025-07-22,Approved,Vendor_3,Sales,AU,False,False,False,False,0
+2,955.48,AUD,Meals,Defense especially usually story.,2025-06-24,Approved,Vendor_10,IT,UK,False,False,True,False,1
+46,479.09,USD,Meals,Fire budget experience various who customer second.,2025-06-17,Approved,Vendor_4,Sales,AU,False,False,False,False,0
+29,640.91,GBP,Supplies,Walk report actually require.,2025-08-09,Approved,Vendor_2,Sales,EU,False,False,False,False,0
+10,915.59,AUD,Accommodation,Body thought black part seek far machine.,2025-06-29,Approved,Vendor_1,Finance,IN,False,False,False,False,0
+24,417.13,GBP,Supplies,Democrat can show else apply science much.,2025-06-11,Approved,Vendor_6,Finance,AU,False,False,False,False,0
+36,203.67,EUR,Accommodation,Open religious floor sound.,2025-03-06,Approved,Vendor_1,IT,UK,False,False,False,False,0
+25,460.99,GBP,Meals,Material data term ahead involve firm.,2025-08-30,Rejected,Vendor_8,HR,USA,False,False,False,False,0
+4,558.93,USD,Supplies,White party certainly back hair begin.,2025-10-03,Approved,Vendor_2,HR,UK,False,False,False,False,0
+11,589.71,GBP,Travel,Thought help technology enjoy real physical.,2025-05-16,Approved,Vendor_10,Sales,IN,False,False,False,False,0
+5,730.66,GBP,Meals,Social five thousand large grow three voice.,2025-06-25,Approved,Vendor_7,HR,USA,False,False,False,False,0
+35,445.92,GBP,Meals,Live process eat media occur system.,2025-05-05,Approved,Vendor_4,IT,IN,False,False,False,False,0
+26,347.31,EUR,Supplies,Real late establish particular water up hear.,2025-04-09,Approved,Vendor_4,IT,EU,False,False,False,False,0
+32,529.94,INR,Entertainment,Explain rich even.,2025-04-17,Approved,Vendor_10,IT,AU,False,False,False,False,0
+31,932.8,EUR,Supplies,Only debate kind billion fill rather.,2025-06-19,Approved,Vendor_1,IT,AU,False,False,False,False,0
+30,125.78,GBP,Travel,Continue reach real give language loss national light.,2025-02-25,Approved,Vendor_6,Finance,EU,False,False,False,False,0
+31,644.25,INR,Accommodation,Gas set but executive part hope.,2025-08-10,Rejected,Vendor_2,Finance,USA,False,False,False,False,0
+14,704.55,GBP,Entertainment,High person break series bit wind something my.,2025-04-03,Approved,Vendor_2,Finance,UK,False,False,False,False,0
+12,303.23,GBP,Travel,Computer nation particular government toward.,2025-06-05,Approved,Vendor_10,IT,EU,False,False,False,False,0
+8,147.44,USD,Meals,Sign industry apply sit kitchen either turn future.,2025-02-27,Approved,Vendor_1,Sales,UK,False,False,False,False,0
+48,831.62,INR,Travel,Determine run name standard example.,2025-09-22,Approved,Vendor_10,Sales,IN,False,False,False,False,0
+18,206.48,AUD,Entertainment,At event education what sense.,2025-01-24,Approved,Vendor_3,IT,USA,False,False,False,False,0
+4,767.01,AUD,Meals,Me forward item say store too.,2025-04-22,Approved,Vendor_5,Finance,USA,False,False,False,False,0
+24,667.89,EUR,Accommodation,Add such less forward almost.,2025-07-18,Approved,Vendor_2,Sales,USA,False,False,False,False,0
+15,635.34,GBP,Travel,Large late remember watch control your.,2025-09-24,Approved,Vendor_7,HR,UK,False,False,False,False,0
+14,679.22,INR,Supplies,Very you despite.,2025-05-25,Approved,Vendor_6,Sales,AU,False,False,False,False,0
+34,578.29,EUR,Entertainment,Data will reality bit.,2025-08-17,Approved,Vendor_5,IT,EU,False,False,False,False,0
+7,558.06,USD,Meals,Writer question effort oil left hear.,2025-03-29,Approved,Vendor_4,Sales,AU,False,False,False,False,0
+17,449.64,AUD,Travel,Certainly catch full.,2025-01-12,Approved,Vendor_8,HR,UK,False,False,False,False,0
+7,609.32,GBP,Travel,Issue structure but weight.,2025-06-22,Approved,Vendor_8,HR,USA,False,False,False,False,0
+43,383.93,EUR,Supplies,Find pass speech page which.,2025-02-21,Approved,Vendor_3,Finance,IN,False,False,False,False,0
+1,798.11,EUR,Meals,Environment affect instead whole author computer.,2025-06-10,Rejected,Vendor_6,IT,IN,False,False,True,False,1
+46,414.85,INR,Accommodation,Kid why style become.,2025-01-13,Approved,Vendor_9,Finance,IN,False,False,False,False,0
+15,420.47,AUD,Accommodation,Level final imagine.,2025-04-26,Approved,Vendor_5,IT,IN,False,False,False,False,0
+16,773.02,GBP,Meals,Every much yourself table.,2025-05-20,Approved,Vendor_4,HR,USA,False,False,False,False,0
+36,88.07,EUR,Accommodation,Human trial lose main.,2025-07-25,Rejected,Vendor_5,Sales,AU,False,False,False,False,0
+12,154.08,USD,Travel,Prevent politics cup score determine money.,2025-09-14,Approved,Vendor_10,Sales,IN,False,False,False,False,0
+1,117.17,GBP,Supplies,Ready skill information strategy.,2025-03-15,Approved,Vendor_6,Sales,EU,False,False,True,False,1
+18,980.74,EUR,Meals,Beat need if hour final challenge.,2025-05-24,Approved,Vendor_1,HR,IN,False,False,False,False,0
+36,245.6,INR,Entertainment,Manager myself mind kid same indicate movement.,2025-01-16,Approved,Vendor_7,IT,EU,False,False,False,False,0
+1,363.06,INR,Entertainment,Notice natural car south born take discover.,2025-01-23,Approved,Vendor_3,IT,USA,False,False,True,False,1
+24,784.64,INR,Meals,Ago company measure rest board sea degree.,2025-03-05,Approved,Vendor_10,Finance,EU,False,False,False,False,0
+41,587.15,EUR,Accommodation,Leg organization policy financial near live cause.,2025-04-02,Approved,Vendor_5,Sales,AU,False,False,False,False,0
+17,40.77,AUD,Entertainment,Different professional quality party pressure hair.,2025-05-16,Approved,Vendor_7,Sales,USA,False,False,False,False,0
+12,758.32,INR,Accommodation,Red part account and finally key.,2025-06-27,Rejected,Vendor_8,HR,USA,False,False,False,False,0
+22,215.21,EUR,Travel,Benefit produce woman condition cause line.,2025-06-05,Rejected,Vendor_4,Finance,EU,False,False,False,False,0
+44,63.42,EUR,Entertainment,Clear tough whom animal hope.,2025-04-26,Approved,Vendor_7,Finance,AU,False,False,False,False,0
+42,197.76,EUR,Supplies,Order three college show herself.,2025-02-15,Approved,Vendor_10,Sales,IN,False,False,False,False,0
+2,223.56,AUD,Supplies,So far perhaps federal so point personal.,2025-06-17,Approved,Vendor_8,Sales,AU,False,False,False,False,0
+12,187.37,AUD,Entertainment,Figure particularly security use inside machine past.,2025-09-20,Approved,Vendor_2,Finance,USA,False,False,False,False,0
+23,979.33,AUD,Entertainment,Stuff gas structure trip rate environmental outside top.,2025-07-15,Approved,Vendor_5,Finance,UK,False,False,False,False,0
+30,598.41,INR,Meals,Avoid many offer officer.,2025-05-02,Approved,Vendor_8,IT,AU,False,False,False,False,0
+43,745.45,EUR,Accommodation,International decision garden yard authority.,2025-09-11,Approved,Vendor_4,HR,USA,False,False,False,False,0
+46,195.59,EUR,Supplies,Cover term gun task manager act.,2025-08-17,Approved,Vendor_7,Finance,IN,False,False,False,False,0
+11,480.72,EUR,Entertainment,Include memory effect miss various.,2025-07-08,Approved,Vendor_5,Finance,EU,False,False,False,False,0
+10,91.72,USD,Meals,This cost dream hair simply.,2025-06-05,Approved,Vendor_7,IT,USA,False,False,False,False,0
+45,920.78,INR,Meals,Bad radio bit keep practice instead reveal.,2025-04-06,Rejected,Vendor_4,HR,USA,False,False,False,False,0
+27,808.88,AUD,Entertainment,Language common friend risk.,2025-03-11,Rejected,Vendor_3,HR,AU,False,False,False,False,0
+6,844.6,EUR,Travel,Run open issue.,2025-07-30,Approved,Vendor_4,IT,AU,False,False,False,False,0
+24,979.56,AUD,Meals,Big ready receive collection than have.,2025-08-20,Rejected,Vendor_5,HR,EU,False,False,False,False,0
+12,846.23,AUD,Meals,Owner agree report state minute.,2025-09-06,Approved,Vendor_9,Sales,IN,False,False,False,False,0
+18,491.49,INR,Entertainment,Magazine boy tree accept protect.,2025-02-03,Approved,Vendor_6,IT,IN,False,False,False,False,0
+10,674.73,AUD,Travel,Relate ever who PM.,2025-01-08,Approved,Vendor_1,IT,EU,False,False,False,False,0
+3,268.07,EUR,Supplies,Happy part serve short third paper strong.,2025-01-18,Approved,Vendor_2,HR,AU,False,False,False,False,0
+42,171.21,AUD,Supplies,Start hear task feel away teach throughout.,2025-08-15,Approved,Vendor_2,IT,UK,False,False,False,False,0
+21,284.08,GBP,Accommodation,Guess note always wish certainly strategy no majority.,2025-04-21,Approved,Vendor_1,IT,EU,False,False,False,False,0
+24,686.71,AUD,Supplies,Professional court help player.,2025-04-23,Approved,Vendor_6,Finance,USA,False,False,False,False,0
+21,471.1,INR,Entertainment,Design international degree politics guess conference image.,2025-04-08,Approved,Vendor_10,Sales,UK,False,False,False,False,0
+37,949.3,GBP,Supplies,Feel heart defense up news throughout within.,2025-09-18,Approved,Vendor_1,Sales,AU,False,False,False,False,0
+48,677.33,GBP,Travel,Admit themselves student when act.,2025-04-29,Approved,Vendor_6,Finance,IN,False,False,False,False,0
+7,516.7,AUD,Meals,Bed house behavior reduce.,2025-04-04,Approved,Vendor_4,Sales,AU,False,False,False,False,0
+18,93.47,GBP,Travel,Light reason challenge into matter.,2025-01-12,Rejected,Vendor_9,HR,EU,False,False,False,False,0
+4,113.91,EUR,Supplies,Million quickly whether under.,2025-09-28,Approved,Vendor_1,Finance,IN,False,False,False,False,0
+19,78.25,INR,Supplies,Matter north approach plan most television ball.,2025-07-10,Approved,Vendor_7,Finance,USA,False,False,False,False,0
+36,800.96,AUD,Entertainment,Wear small national.,2025-08-13,Approved,Vendor_5,Finance,USA,False,False,False,False,0
+35,949.15,GBP,Travel,Short fact film language.,2025-07-17,Approved,Vendor_4,IT,EU,False,False,False,False,0
+4,538.17,EUR,Meals,Table still treat take alone.,2025-05-02,Approved,Vendor_5,HR,AU,False,False,False,False,0
+1,282.31,GBP,Supplies,Long tax think simply talk.,2025-03-07,Approved,Vendor_7,HR,AU,False,False,True,False,1
+35,682.06,AUD,Accommodation,Try chance series research human analysis leg.,2025-01-25,Approved,Vendor_6,Sales,AU,False,False,False,False,0
+25,540.53,AUD,Entertainment,Mrs truth per feel talk over factor.,2025-09-17,Approved,Vendor_4,Finance,AU,False,False,False,False,0
+29,663.23,EUR,Entertainment,Discussion indeed physical difficult must tax.,2025-02-27,Approved,Vendor_7,Finance,UK,False,False,False,False,0
+29,401.61,USD,Travel,Final information actually court foot.,2025-05-16,Approved,Vendor_4,Finance,IN,False,False,False,False,0
+10,444.06,INR,Accommodation,Information page never line beyond.,2025-02-13,Approved,Vendor_3,IT,IN,False,False,False,False,0
+22,915.06,USD,Supplies,Together he American sign during.,2025-06-01,Rejected,Vendor_7,HR,UK,False,False,False,False,0
+30,83.7,INR,Travel,Detail receive these PM.,2025-04-19,Approved,Vendor_1,Sales,AU,False,False,False,False,0
+12,758.92,EUR,Meals,Head less bank ask.,2025-06-11,Approved,Vendor_1,IT,UK,False,False,False,False,0
+13,592.1,AUD,Supplies,These her write face house.,2025-09-01,Approved,Vendor_9,IT,USA,False,False,False,False,0
+11,24.69,GBP,Supplies,Production change modern break.,2025-07-01,Approved,Vendor_2,Sales,IN,False,False,False,False,0
+46,669.04,AUD,Entertainment,Pm property decade lawyer.,2025-04-10,Approved,Vendor_1,Finance,AU,False,False,False,False,0
+6,991.99,USD,Travel,Culture story animal character million onto challenge country.,2025-06-05,Approved,Vendor_3,Finance,UK,False,False,True,False,1
+44,548.38,INR,Meals,Pm parent cell sell move leg defense.,2025-06-13,Rejected,Vendor_10,Sales,EU,False,False,False,False,0
+2,451.52,USD,Entertainment,Own shake enjoy lose tree imagine loss.,2025-08-19,Rejected,Vendor_5,Sales,UK,False,False,False,False,0
+4,467.64,AUD,Travel,Test win open take account traditional garden product.,2025-03-27,Approved,Vendor_4,Finance,AU,False,False,False,False,0
+43,268.53,EUR,Supplies,Resource focus newspaper baby never already.,2025-08-28,Approved,Vendor_3,IT,IN,False,False,False,False,0
+35,795.67,AUD,Meals,Character agent hospital measure role us.,2025-05-06,Approved,Vendor_6,Finance,USA,False,False,False,False,0
+9,965.74,EUR,Travel,Through usually attack dream provide.,2025-08-30,Approved,Vendor_3,Finance,EU,False,False,False,False,0
+12,718.27,INR,Meals,Want improve eight throw.,2025-04-28,Approved,Vendor_10,HR,AU,False,False,False,False,0
+37,807.56,AUD,Accommodation,South understand natural last important section month.,2025-02-18,Rejected,Vendor_10,Finance,AU,False,False,False,False,0
+23,232.73,INR,Meals,Cut suggest six produce write structure.,2025-01-05,Rejected,Vendor_1,Sales,USA,False,False,False,False,0
+38,919.28,USD,Accommodation,Blood reality almost phone generation feeling peace lose.,2025-05-09,Approved,Vendor_7,Sales,USA,False,False,False,False,0
+23,457.9,AUD,Accommodation,Early truth fly thus chair.,2025-06-26,Approved,Vendor_5,HR,UK,False,False,False,False,0
+36,145.31,INR,Entertainment,Kitchen surface involve involve level form social.,2025-04-08,Rejected,Vendor_7,IT,IN,False,False,False,False,0
+44,136.3,AUD,Travel,Appear reality bill computer pay husband method.,2025-01-04,Approved,Vendor_6,Sales,UK,False,False,False,False,0
+43,352.01,GBP,Meals,Attention always expect second continue stock item.,2025-04-24,Approved,Vendor_10,Sales,EU,False,False,False,False,0
+5,103.57,INR,Entertainment,President teach bank Democrat.,2025-07-19,Rejected,Vendor_6,Sales,IN,False,False,False,False,0
+6,969.56,GBP,Entertainment,Conference war herself future military seat.,2025-04-07,Approved,Vendor_8,IT,AU,False,False,False,False,0
+7,226.7,USD,Accommodation,Receive financial sing draw soldier name social.,2025-10-02,Approved,Vendor_10,Sales,UK,False,False,False,False,0
+19,787.7,USD,Travel,Employee paper by available.,2025-02-27,Approved,Vendor_1,Sales,EU,False,False,False,False,0
+19,678.11,AUD,Meals,Heart second Democrat more way.,2025-04-12,Approved,Vendor_4,IT,AU,False,False,False,False,0
+25,387.79,EUR,Travel,Suggest provide least discover almost accept plant.,2025-03-19,Approved,Vendor_6,Sales,EU,False,False,False,False,0
+33,202.95,EUR,Entertainment,Case material bar professor.,2025-01-22,Approved,Vendor_6,Sales,USA,False,False,False,False,0
+3,288.9,USD,Meals,Gas grow away cultural.,2025-05-15,Approved,Vendor_2,Finance,UK,False,False,False,False,0
+39,265.17,EUR,Accommodation,Picture from economic responsibility.,2025-02-09,Approved,Vendor_7,IT,EU,False,False,False,False,0
+17,972.69,EUR,Accommodation,Near society push often.,2025-02-02,Approved,Vendor_5,IT,EU,False,False,False,False,0
+29,822.29,GBP,Meals,Old project south.,2025-05-07,Approved,Vendor_10,Finance,IN,False,False,False,False,0
+6,428.92,AUD,Supplies,Pattern would involve important chance color.,2025-04-23,Approved,Vendor_5,Finance,UK,False,False,False,False,0
+5,453.74,AUD,Travel,Stock sound also measure body nice.,2025-06-07,Approved,Vendor_9,IT,UK,False,False,False,False,0
+33,72.42,GBP,Meals,Project senior after admit thing different record.,2025-09-01,Approved,Vendor_6,IT,EU,False,False,False,False,0
+23,650.36,GBP,Entertainment,Sense work detail per our how kid Mrs.,2025-02-27,Approved,Vendor_1,Finance,EU,False,False,False,False,0
+43,836.13,GBP,Travel,Coach now range meet commercial.,2025-08-29,Approved,Vendor_6,Finance,UK,False,False,False,False,0
+30,579.69,INR,Supplies,Accept account power dog.,2025-05-02,Approved,Vendor_1,HR,EU,False,False,False,False,0
+27,286.29,USD,Travel,Audience yourself data rule scientist.,2025-01-14,Approved,Vendor_3,HR,AU,False,False,False,False,0
+4,398.71,INR,Entertainment,To end school tax manage.,2025-05-14,Approved,Vendor_2,Finance,IN,False,False,False,False,0
+16,757.89,INR,Supplies,Decision open of garden prevent down.,2025-06-12,Approved,Vendor_4,Sales,USA,False,False,False,False,0
+45,372.24,GBP,Entertainment,Environment here reduce return.,2025-06-20,Approved,Vendor_5,IT,EU,False,False,False,False,0
+9,236.43,USD,Accommodation,Cause doctor identify left necessary position.,2025-08-29,Approved,Vendor_2,HR,EU,False,False,False,False,0
+8,936.85,EUR,Accommodation,Scene because race.,2025-05-16,Approved,Vendor_2,HR,EU,False,False,False,False,0
+42,249.44,GBP,Travel,Always hope least cut.,2025-03-20,Rejected,Vendor_7,Sales,EU,False,False,False,False,0
+2,467.39,INR,Travel,Right so maintain economic participant situation data open.,2025-07-08,Approved,Vendor_10,Finance,USA,False,False,False,False,0
+10,633.4,EUR,Meals,Recent any sister purpose.,2025-02-20,Approved,Vendor_3,Finance,AU,False,False,False,False,0
+23,911.95,USD,Supplies,Direction amount chair experience nearly firm individual large.,2025-02-04,Approved,Vendor_7,HR,UK,False,False,False,False,0
+30,24.52,GBP,Entertainment,Perform century light be church machine this.,2025-02-05,Approved,Vendor_4,HR,IN,False,False,False,False,0
+42,530.29,GBP,Accommodation,Page morning thousand page why.,2025-06-13,Approved,Vendor_4,Finance,UK,False,False,False,False,0
+4,160.26,INR,Supplies,Want water fear message food.,2025-02-16,Approved,Vendor_1,Finance,USA,False,False,False,False,0
+16,186.35,EUR,Supplies,Article resource truth eight accept meeting.,2025-09-20,Rejected,Vendor_10,IT,AU,False,False,False,False,0
+15,49.43,INR,Meals,News nation affect shake institution.,2025-01-07,Approved,Vendor_7,HR,USA,False,False,False,False,0
+44,615.87,EUR,Travel,Approach side by.,2025-10-01,Approved,Vendor_9,IT,IN,False,False,False,False,0
+39,614.25,INR,Supplies,Government ball threat expect couple.,2025-06-14,Approved,Vendor_1,HR,IN,False,False,False,False,0
+41,280.19,EUR,Entertainment,Test discussion realize hotel kitchen.,2025-06-09,Rejected,Vendor_9,IT,EU,False,False,False,False,0
+7,61.81,USD,Entertainment,Poor account much yet.,2025-08-01,Approved,Vendor_2,HR,IN,False,False,False,False,0
+48,457.47,AUD,Travel,Finally throw less sort budget.,2025-08-22,Approved,Vendor_5,Finance,UK,False,False,False,False,0
+4,736.68,GBP,Travel,Especially worker kid specific.,2025-01-24,Approved,Vendor_6,IT,IN,False,False,False,False,0
+12,456.51,GBP,Entertainment,Church fill decade direction.,2025-03-15,Approved,Vendor_8,Sales,IN,False,False,False,False,0
+15,261.96,AUD,Meals,Catch value far society over enter.,2025-03-25,Approved,Vendor_2,IT,UK,False,False,False,False,0
+13,254.47,INR,Entertainment,Thus draw else thought peace speech.,2025-06-28,Rejected,Vendor_6,Sales,USA,False,False,False,False,0
+20,444.9,EUR,Entertainment,Adult Democrat fall break.,2025-07-31,Approved,Vendor_1,Sales,UK,False,False,False,False,0
+15,408.22,GBP,Travel,Popular else part head line mention.,2025-04-11,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+27,849.57,GBP,Entertainment,Kind hard lawyer other former.,2025-03-17,Approved,Vendor_3,Sales,USA,False,False,False,False,0
+19,701.43,AUD,Supplies,Agent personal begin able author bit rather strong.,2025-05-19,Approved,Vendor_10,IT,EU,False,False,False,False,0
+33,70.62,INR,Meals,Develop sing artist civil heavy body case.,2025-07-11,Rejected,Vendor_6,IT,USA,False,False,False,False,0
+50,127.06,USD,Meals,Order least reach sometimes material.,2025-04-04,Approved,Vendor_3,Finance,AU,False,False,True,False,1
+44,281.26,USD,Meals,Structure product name.,2025-09-30,Rejected,Vendor_3,Sales,IN,False,False,False,False,0
+49,931.81,AUD,Meals,Data wrong follow situation.,2025-08-21,Approved,Vendor_8,IT,EU,False,False,True,False,1
+27,143.0,USD,Travel,Hold plant down claim.,2025-04-15,Approved,Vendor_10,IT,UK,False,False,False,False,0
+35,852.89,GBP,Meals,Stuff great officer prepare nice exist.,2025-08-12,Approved,Vendor_1,IT,USA,False,False,False,False,0
+11,102.68,USD,Entertainment,Price against position dinner news ago.,2025-03-14,Rejected,Vendor_4,HR,USA,False,False,False,False,0
+27,568.67,EUR,Accommodation,Where power close.,2025-09-21,Approved,Vendor_3,Sales,UK,False,False,False,False,0
+47,445.74,INR,Accommodation,Score yet cover wrong travel performance.,2025-03-27,Approved,Vendor_4,IT,EU,False,False,False,False,0
+25,127.59,GBP,Travel,Sign sister recognize soon.,2025-06-06,Approved,Vendor_3,Sales,AU,False,False,False,False,0
+41,149.57,GBP,Travel,Business we resource memory take body grow authority.,2025-09-29,Approved,Vendor_8,HR,UK,False,False,False,False,0
+20,713.1,AUD,Accommodation,Reality region ability dinner near year.,2025-08-23,Rejected,Vendor_6,IT,IN,False,False,False,False,0
+10,637.49,AUD,Supplies,Very prevent ready race.,2025-01-22,Rejected,Vendor_5,Finance,AU,False,False,False,False,0
+35,773.23,AUD,Supplies,Hand south treatment least citizen job cause.,2025-05-28,Rejected,Vendor_5,HR,UK,False,False,False,False,0
+42,975.76,GBP,Travel,Life source newspaper.,2025-09-14,Approved,Vendor_3,IT,USA,False,False,False,False,0
+22,972.76,GBP,Entertainment,Field sit health phone someone bring box.,2025-07-06,Rejected,Vendor_2,Sales,AU,False,False,False,False,0
+33,240.79,EUR,Supplies,Remain challenge material at.,2025-09-17,Approved,Vendor_10,HR,AU,False,False,False,False,0
+23,590.23,USD,Supplies,Religious listen federal relate need school it idea.,2025-08-09,Approved,Vendor_6,Finance,AU,False,False,False,False,0
+16,507.87,EUR,Entertainment,Without party especially continue.,2025-06-25,Approved,Vendor_9,Finance,EU,False,False,False,False,0
+11,596.24,EUR,Accommodation,Design side in race.,2025-03-04,Approved,Vendor_8,IT,UK,False,False,False,False,0
+32,912.71,USD,Accommodation,Civil third money group.,2025-09-23,Rejected,Vendor_6,Sales,IN,False,False,False,False,0
+6,530.32,GBP,Travel,On success leave cut state some.,2025-08-30,Approved,Vendor_9,Finance,UK,False,False,False,False,0
+40,591.05,USD,Supplies,Idea whose view network wish establish too.,2025-05-22,Rejected,Vendor_5,Sales,AU,False,False,False,False,0
+8,479.21,USD,Supplies,Despite drive bed stage.,2025-06-01,Approved,Vendor_4,IT,UK,False,False,False,False,0
+49,983.1,USD,Meals,Interesting executive morning matter especially yourself.,2025-03-25,Approved,Vendor_2,Sales,EU,False,False,True,False,1
+18,985.98,INR,Travel,Summer structure likely develop parent mission produce.,2025-09-15,Approved,Vendor_5,IT,USA,False,False,False,False,0
+25,958.93,INR,Travel,Late interest push require.,2025-07-22,Approved,Vendor_10,IT,AU,False,False,False,False,0
+41,769.48,USD,Entertainment,Spring meet improve too tough exactly.,2025-10-01,Rejected,Vendor_7,IT,EU,False,False,False,False,0
+22,747.97,GBP,Entertainment,Sing factor film prevent within watch friend.,2025-09-20,Approved,Vendor_10,HR,IN,False,False,False,False,0
+47,688.39,EUR,Meals,Provide night little have.,2025-09-07,Approved,Vendor_9,IT,USA,False,False,False,False,0
+39,401.78,AUD,Supplies,Skin seat ok candidate blood.,2025-01-17,Rejected,Vendor_7,IT,UK,False,False,False,False,0
+28,989.46,USD,Supplies,Attorney oil fear way single stand treatment.,2025-09-30,Rejected,Vendor_10,IT,EU,False,False,False,False,0
+27,152.13,EUR,Travel,Simple view same task.,2025-09-09,Approved,Vendor_4,Finance,UK,False,False,False,False,0
+19,522.32,USD,Entertainment,Imagine capital themselves structure people trial order character.,2025-07-05,Rejected,Vendor_3,IT,EU,False,False,False,False,0
+44,120.71,GBP,Supplies,Attorney western land region though light.,2025-02-01,Approved,Vendor_6,Sales,IN,False,False,False,False,0
+16,636.51,AUD,Entertainment,Record clearly find factor answer.,2025-04-13,Approved,Vendor_7,IT,IN,False,False,False,False,0
+42,847.41,AUD,Accommodation,Material police manager item describe feel act.,2025-08-24,Approved,Vendor_9,HR,UK,False,False,False,False,0
+38,173.82,INR,Accommodation,Wear air on also.,2025-09-25,Approved,Vendor_8,IT,USA,False,False,False,False,0
+47,263.63,GBP,Meals,Usually child take glass thank report produce state.,2025-07-06,Approved,Vendor_4,IT,EU,False,False,False,False,0
+27,81.1,USD,Meals,Painting learn from force not.,2025-01-02,Rejected,Vendor_4,Finance,UK,False,False,False,False,0
+13,967.41,AUD,Accommodation,Follow million then almost behind office card.,2025-05-09,Approved,Vendor_2,Finance,EU,False,False,False,False,0
+24,184.7,INR,Accommodation,Prove down president.,2025-03-31,Approved,Vendor_9,Sales,UK,False,False,False,False,0
+7,419.78,USD,Travel,Because capital system around discussion vote fear.,2025-07-24,Approved,Vendor_6,HR,AU,False,False,False,False,0
+14,231.91,EUR,Supplies,Conference wrong other network.,2025-09-28,Approved,Vendor_4,IT,AU,False,False,False,False,0
+28,959.75,AUD,Travel,Measure last I indicate travel system hand.,2025-08-07,Approved,Vendor_6,Sales,AU,False,False,False,False,0
+9,396.38,INR,Entertainment,Country capital need check foot.,2025-01-03,Approved,Vendor_7,Sales,USA,False,False,False,False,0
+23,379.08,GBP,Supplies,Defense week source like.,2025-09-11,Approved,Vendor_6,HR,IN,False,False,False,False,0
+47,614.64,EUR,Meals,Dog student trouble eight after believe several study.,2025-08-26,Approved,Vendor_6,HR,IN,False,False,False,False,0
+14,437.46,USD,Meals,Make contain coach.,2025-01-01,Approved,Vendor_1,Finance,IN,False,False,False,False,0
+46,814.42,GBP,Accommodation,Three article attention heart.,2025-03-13,Approved,Vendor_1,HR,IN,False,False,False,False,0
+30,101.47,GBP,Supplies,Side I when section.,2025-08-28,Rejected,Vendor_1,IT,IN,False,False,False,False,0
+3,620.73,AUD,Travel,Determine recognize then step century could.,2025-09-25,Approved,Vendor_4,HR,IN,False,False,False,False,0
+12,865.7,USD,Accommodation,Energy let ever across state stand.,2025-09-24,Approved,Vendor_10,HR,AU,False,False,False,False,0
+47,855.88,INR,Accommodation,Central soldier huge language expert clearly cold exist.,2025-08-22,Rejected,Vendor_2,HR,UK,False,False,False,False,0
+33,951.75,INR,Travel,Interest also read interesting establish.,2025-07-23,Approved,Vendor_9,Finance,EU,False,False,False,False,0
+27,781.19,AUD,Supplies,Maintain hand red nor because.,2025-06-06,Approved,Vendor_4,Sales,EU,False,False,False,False,0
+42,606.98,GBP,Entertainment,Join red let under because walk dinner skin.,2025-02-06,Approved,Vendor_8,HR,USA,False,False,False,False,0
+23,980.73,EUR,Entertainment,Guess I live chance individual.,2025-10-03,Approved,Vendor_1,Finance,AU,False,False,False,False,0
+32,100.21,AUD,Meals,Want yard smile truth in without reveal.,2025-06-02,Approved,Vendor_4,Sales,USA,False,False,False,False,0
+26,405.75,EUR,Travel,Beat great man open.,2025-06-26,Approved,Vendor_3,IT,USA,False,False,False,False,0
+2,299.26,AUD,Meals,Director major wait admit.,2025-04-26,Rejected,Vendor_6,IT,EU,False,False,False,False,0
+27,929.74,AUD,Meals,Peace send data rather north series.,2025-04-14,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+22,608.45,USD,Meals,Between maintain suffer simple history third carry.,2025-07-27,Approved,Vendor_6,Sales,EU,False,False,False,False,0
+45,627.65,INR,Travel,Policy husband behavior cup.,2025-09-13,Approved,Vendor_8,Sales,AU,False,False,False,False,0
+3,926.13,GBP,Supplies,Chair not of gun entire at should.,2025-01-23,Approved,Vendor_9,IT,UK,False,False,False,False,0
+29,299.9,INR,Supplies,Several professor fire fast.,2025-04-02,Rejected,Vendor_8,Finance,EU,False,False,False,False,0
+5,175.9,USD,Entertainment,Its thought exist reach add development.,2025-07-29,Approved,Vendor_10,Finance,EU,False,False,False,False,0
+9,361.6,AUD,Travel,Number who worry indicate statement.,2025-07-08,Approved,Vendor_10,Sales,AU,False,False,False,False,0
+25,520.32,USD,Meals,Machine describe experience example contain physical by.,2025-08-12,Approved,Vendor_4,IT,AU,False,False,False,False,0
+26,241.21,EUR,Entertainment,Seem identify amount save ahead which foot.,2025-05-03,Approved,Vendor_4,IT,AU,False,False,False,False,0
+41,389.22,INR,Entertainment,Improve over position hour major sister including.,2025-09-05,Rejected,Vendor_8,Sales,IN,False,False,False,False,0
+41,207.36,EUR,Accommodation,Check American talk space picture.,2025-02-24,Approved,Vendor_9,Sales,AU,False,False,False,False,0
+46,362.27,EUR,Travel,Friend event structure accept upon.,2025-03-07,Approved,Vendor_4,Sales,UK,False,False,False,False,0
+8,96.71,EUR,Supplies,Follow daughter away receive wait investment than none.,2025-07-11,Rejected,Vendor_3,Finance,USA,False,False,False,False,0
+2,953.81,GBP,Entertainment,Public management we Mrs any between idea.,2025-07-23,Approved,Vendor_8,IT,AU,False,False,True,False,1
+2,793.76,INR,Entertainment,Religious two could major dinner road population when.,2025-02-12,Approved,Vendor_4,HR,UK,False,False,False,False,0
+28,657.95,EUR,Supplies,Keep throw lose single case.,2025-03-09,Approved,Vendor_10,HR,EU,False,False,False,False,0
+33,744.59,EUR,Entertainment,Foot treatment American trade deep.,2025-06-11,Approved,Vendor_10,IT,UK,False,False,False,False,0
+28,676.81,USD,Entertainment,Computer anything boy customer.,2025-03-07,Approved,Vendor_9,IT,AU,False,False,False,False,0
+42,341.33,USD,Meals,Staff then say defense discuss.,2025-05-18,Approved,Vendor_3,Sales,EU,False,False,False,False,0
+29,200.25,GBP,Entertainment,Wear lot PM serious.,2025-06-04,Approved,Vendor_1,HR,USA,False,False,False,False,0
+45,994.14,USD,Travel,Again least media article place allow wonder.,2025-04-02,Approved,Vendor_7,Finance,AU,False,False,True,False,1
+5,500.49,AUD,Supplies,Gas maybe strategy drug.,2025-07-16,Approved,Vendor_10,Finance,UK,False,False,False,False,0
+34,734.31,GBP,Accommodation,Drop until positive believe a.,2025-07-23,Approved,Vendor_10,Finance,IN,False,False,False,False,0
+15,992.53,EUR,Travel,Improve listen itself science institution.,2025-01-10,Approved,Vendor_8,Finance,USA,False,False,False,False,0
+31,506.54,INR,Supplies,Pick mission price.,2025-07-28,Approved,Vendor_1,IT,EU,False,False,False,False,0
+33,439.31,EUR,Accommodation,Take specific smile moment ever phone daughter.,2025-09-17,Approved,Vendor_10,Sales,AU,False,False,False,False,0
+1,473.74,AUD,Supplies,Deep executive note.,2025-09-26,Approved,Vendor_1,IT,AU,False,False,False,False,0
+23,130.42,EUR,Entertainment,Trip spring avoid want matter today.,2025-03-02,Rejected,Vendor_5,IT,AU,False,False,False,False,0
+45,910.18,GBP,Accommodation,Natural foot baby word.,2025-06-21,Approved,Vendor_9,IT,AU,False,False,False,False,0
+27,503.74,AUD,Entertainment,Various beyond station trip shake.,2025-06-06,Approved,Vendor_6,Finance,AU,False,False,False,False,0
+6,694.71,GBP,Accommodation,Like TV resource amount mother box.,2025-06-28,Approved,Vendor_5,Sales,UK,False,False,False,False,0
+21,419.67,GBP,Supplies,Machine spring seat cost.,2025-04-08,Approved,Vendor_10,HR,AU,False,False,False,False,0
+9,840.82,INR,Supplies,Wonder charge democratic new.,2025-07-24,Approved,Vendor_5,Finance,IN,False,False,False,False,0
+27,673.58,AUD,Entertainment,Leg truth company someone pull.,2025-05-27,Approved,Vendor_7,HR,EU,False,False,False,False,0
+42,248.31,GBP,Entertainment,Throw herself care.,2025-01-15,Approved,Vendor_2,Sales,IN,False,False,False,False,0
+14,183.03,AUD,Accommodation,Parent carry off.,2025-09-03,Rejected,Vendor_2,Sales,IN,False,False,False,False,0
+7,780.62,USD,Travel,Note ago Mrs after.,2025-08-20,Approved,Vendor_8,IT,AU,False,False,False,False,0
+14,942.37,GBP,Meals,Too would less director.,2025-01-12,Approved,Vendor_1,Finance,UK,False,False,False,False,0
+21,373.81,INR,Travel,Group many on.,2025-09-20,Approved,Vendor_7,IT,USA,False,False,False,False,0
+13,963.39,INR,Travel,Enter piece kind high college food article.,2025-02-07,Rejected,Vendor_10,Sales,UK,False,False,False,False,0
+47,722.54,USD,Travel,Those dinner later suddenly person.,2025-02-12,Approved,Vendor_1,HR,UK,False,False,False,False,0
+15,533.18,AUD,Meals,Heavy make drop work say agree capital.,2025-06-25,Approved,Vendor_10,Sales,UK,False,False,False,False,0
+37,401.48,INR,Travel,Fly deal skill between oil step item.,2025-03-12,Approved,Vendor_5,HR,EU,False,False,False,False,0
+27,846.7,USD,Meals,These benefit build once half.,2025-07-12,Approved,Vendor_6,Sales,USA,False,False,False,False,0
+17,883.68,USD,Supplies,Real peace recent spring range.,2025-08-04,Approved,Vendor_6,Sales,IN,False,False,False,False,0
+17,658.02,EUR,Entertainment,Home point wish road blood.,2025-07-03,Rejected,Vendor_6,HR,AU,False,False,False,False,0
+26,591.05,AUD,Entertainment,Bar election apply environmental.,2025-09-01,Approved,Vendor_8,HR,IN,False,False,False,False,0
+25,530.19,USD,Travel,Production hospital manage fly child recently.,2025-01-19,Approved,Vendor_10,HR,UK,False,False,False,False,0
+28,949.95,INR,Travel,Everyone wonder indeed family goal.,2025-06-30,Approved,Vendor_8,IT,UK,False,False,False,False,0
+35,932.95,GBP,Meals,Quality former goal.,2025-09-30,Approved,Vendor_9,IT,USA,False,False,False,False,0
+27,342.52,USD,Meals,Rather be decision art pull recently state example.,2025-04-20,Approved,Vendor_10,Sales,AU,False,False,False,False,0
+5,394.37,GBP,Entertainment,Material blue yet against number seat peace.,2025-06-26,Rejected,Vendor_4,HR,AU,False,False,False,False,0
+14,131.38,INR,Entertainment,Notice wonder house agree red.,2025-01-27,Approved,Vendor_7,IT,AU,False,False,False,False,0
+8,69.27,GBP,Meals,Rule fact chance spring.,2025-05-19,Approved,Vendor_4,Finance,IN,False,False,False,False,0
+44,169.07,EUR,Meals,Hard voice participant investment according.,2025-05-21,Approved,Vendor_1,Finance,USA,False,False,False,False,0
+26,422.95,USD,Entertainment,May similar girl edge hard.,2025-09-02,Rejected,Vendor_1,Sales,USA,False,False,False,False,0
+31,88.51,USD,Accommodation,Billion thing management image TV mouth event range.,2025-03-02,Approved,Vendor_9,IT,EU,False,False,False,False,0
+47,256.02,AUD,Travel,Require be general area rise trial affect.,2025-07-31,Approved,Vendor_2,HR,IN,False,False,False,False,0
+2,580.29,USD,Entertainment,Laugh apply street country occur low interview.,2025-05-01,Approved,Vendor_4,Finance,IN,False,False,False,False,0
+14,392.56,AUD,Travel,Magazine decade surface page experience relationship form.,2025-04-13,Rejected,Vendor_5,HR,EU,False,False,False,False,0
+12,334.66,AUD,Travel,Hotel wind body improve again.,2025-02-17,Approved,Vendor_5,IT,AU,False,False,False,False,0
+3,862.38,INR,Travel,Your we establish most.,2025-03-25,Rejected,Vendor_7,IT,UK,False,False,False,False,0
+32,375.92,USD,Entertainment,Yourself not meeting sometimes senior.,2025-01-25,Approved,Vendor_7,IT,USA,False,False,False,False,0
+1,20.22,EUR,Travel,Paper down democratic gun vote response run.,2025-07-22,Approved,Vendor_1,IT,USA,False,False,True,False,1
+25,937.23,USD,Entertainment,Walk specific not more against accept.,2025-02-22,Approved,Vendor_8,Sales,USA,False,False,False,False,0
+2,351.38,USD,Travel,Management hard daughter blood mother guess forward.,2025-01-08,Rejected,Vendor_5,Finance,IN,False,False,False,False,0
+12,394.71,USD,Supplies,Nearly threat leave well however office.,2025-04-11,Approved,Vendor_8,IT,EU,False,False,False,False,0
+3,303.83,EUR,Travel,Matter down reduce various employee.,2025-04-18,Approved,Vendor_6,Finance,USA,False,False,False,False,0
+34,933.33,EUR,Supplies,I technology remember seem.,2025-03-03,Approved,Vendor_9,Sales,EU,False,False,False,False,0
+7,732.37,USD,Entertainment,Agree kitchen parent friend school upon rather.,2025-05-02,Approved,Vendor_6,Finance,UK,False,False,False,False,0
+7,48.49,AUD,Travel,Along east democratic opportunity.,2025-08-16,Rejected,Vendor_3,Finance,UK,False,False,False,False,0
+11,355.85,INR,Entertainment,Scene girl soldier none.,2025-01-26,Rejected,Vendor_5,HR,USA,False,False,False,False,0
+11,15.74,USD,Entertainment,Who give accept.,2025-08-29,Rejected,Vendor_3,HR,EU,False,False,True,False,1
+30,909.29,EUR,Meals,Fight road national state young individual concern.,2025-09-13,Approved,Vendor_5,Finance,EU,False,False,False,False,0
+14,596.28,INR,Entertainment,Price population student late in speak.,2025-08-04,Rejected,Vendor_10,Finance,USA,False,False,False,False,0
+2,74.95,AUD,Accommodation,Glass society throughout clear national work.,2025-05-10,Approved,Vendor_6,HR,UK,False,False,True,False,1
+47,507.91,INR,Accommodation,Exactly do draw sometimes project claim claim.,2025-03-22,Approved,Vendor_9,Finance,AU,False,False,False,False,0
+24,88.04,AUD,Entertainment,Including seem talk arm involve too state.,2025-03-28,Rejected,Vendor_8,IT,IN,False,False,False,False,0
+8,56.06,USD,Accommodation,Friend financial base tonight lawyer news camera.,2025-05-16,Approved,Vendor_2,Sales,IN,False,False,False,False,0
+36,839.0,INR,Accommodation,Cup future big your particularly mother.,2025-04-20,Approved,Vendor_8,Sales,UK,False,False,False,False,0
+38,253.27,AUD,Travel,Call realize note performance foreign include image.,2025-01-26,Approved,Vendor_8,Finance,AU,False,False,False,False,0
+44,898.35,USD,Travel,List as camera.,2025-04-30,Rejected,Vendor_8,Sales,AU,False,False,False,False,0
+13,339.31,EUR,Supplies,Table car act section although.,2025-07-25,Approved,Vendor_8,Finance,EU,False,False,False,False,0
+42,657.06,EUR,Supplies,Fly ready up federal event rather.,2025-02-11,Approved,Vendor_7,Sales,IN,False,False,False,False,0
+29,540.3,GBP,Meals,Heart any impact beat guess trouble image.,2025-09-20,Approved,Vendor_8,Finance,USA,False,False,False,False,0
+47,999.62,INR,Supplies,According plant hair five success medical hair discover.,2025-01-17,Approved,Vendor_3,HR,IN,False,False,True,False,1
+22,288.12,GBP,Supplies,Feeling skin adult history else they their investment.,2025-08-05,Approved,Vendor_1,HR,USA,False,False,False,False,0
+28,451.34,AUD,Supplies,Customer show dog thought interview.,2025-06-23,Approved,Vendor_10,IT,AU,False,False,False,False,0
+22,419.34,INR,Entertainment,Run discussion what suggest exactly choose party.,2025-06-06,Approved,Vendor_9,Sales,AU,False,False,False,False,0
+21,965.78,INR,Accommodation,One agency candidate officer economy too.,2025-04-27,Rejected,Vendor_10,IT,EU,False,False,False,False,0
+37,380.61,AUD,Supplies,Industry Mrs hospital positive.,2025-07-02,Approved,Vendor_8,HR,IN,False,False,False,False,0
+34,761.22,EUR,Meals,Black word election avoid.,2025-02-08,Rejected,Vendor_8,Finance,EU,False,False,False,False,0
+22,987.08,EUR,Entertainment,Particular movie thought cultural must follow.,2025-05-05,Approved,Vendor_2,IT,UK,False,False,False,False,0
+48,200.07,INR,Travel,Walk wear radio allow once though reduce.,2025-05-22,Approved,Vendor_3,Finance,EU,False,False,False,False,0
+18,982.52,USD,Meals,Head person value follow pay push.,2025-06-17,Rejected,Vendor_3,Finance,USA,False,False,False,False,0
+34,812.89,USD,Meals,Once maintain when name.,2025-03-10,Approved,Vendor_8,Finance,AU,False,False,False,False,0
+3,153.26,GBP,Supplies,Successful draw figure actually head.,2025-07-12,Approved,Vendor_9,Finance,EU,False,False,False,False,0
+4,794.5,AUD,Meals,Agency personal accept red center first health.,2025-04-23,Approved,Vendor_10,IT,IN,False,False,False,False,0
+9,104.81,USD,Travel,Cultural less development goal prove tax recognize there.,2025-04-07,Approved,Vendor_5,HR,USA,False,False,False,False,0
+35,616.09,INR,Meals,Read so blood born.,2025-08-14,Approved,Vendor_2,Sales,USA,False,False,False,False,0
+39,521.97,INR,Entertainment,Future group something eat.,2025-01-15,Approved,Vendor_8,Finance,UK,False,False,False,False,0
+14,420.63,EUR,Accommodation,Admit much process morning.,2025-01-29,Approved,Vendor_10,HR,IN,False,False,False,False,0
+26,800.63,INR,Travel,Chance oil way always plan family carry.,2025-07-15,Approved,Vendor_2,Finance,IN,False,False,False,False,0
+44,970.16,USD,Travel,Through garden war me far how company man.,2025-01-12,Approved,Vendor_1,IT,UK,False,False,False,False,0
+17,956.62,USD,Travel,Wrong physical under hair all power girl.,2025-01-23,Approved,Vendor_2,IT,UK,False,False,False,False,0
+18,383.63,GBP,Travel,Such onto also opportunity.,2025-02-14,Approved,Vendor_4,Sales,EU,False,False,False,False,0
+15,233.25,USD,Accommodation,Become hard common continue suffer support.,2025-05-26,Approved,Vendor_8,IT,IN,False,False,False,False,0
+4,34.08,GBP,Entertainment,Long tonight kitchen however color home response.,2025-06-23,Approved,Vendor_8,Sales,AU,False,False,False,False,0
+41,624.09,GBP,Travel,Model spend charge chance she.,2025-07-29,Approved,Vendor_6,IT,IN,False,False,False,False,0
+17,267.95,USD,Travel,Close continue reveal watch peace war camera.,2025-07-10,Approved,Vendor_5,HR,EU,False,False,False,False,0
+47,970.29,INR,Supplies,Myself who south second.,2025-09-29,Approved,Vendor_10,IT,EU,False,False,False,False,0
+23,889.73,EUR,Meals,Process sea area sometimes share short.,2025-01-27,Approved,Vendor_2,HR,UK,False,False,False,False,0
+9,625.17,GBP,Supplies,Local him choose accept.,2025-04-18,Approved,Vendor_7,HR,USA,False,False,False,False,0
+19,624.04,EUR,Entertainment,Choose a cost.,2025-04-12,Approved,Vendor_9,Finance,UK,False,False,False,False,0
+8,217.18,USD,Entertainment,Commercial about go free fish writer.,2025-02-07,Approved,Vendor_3,HR,USA,False,False,False,False,0
+47,162.78,GBP,Supplies,Choose picture bank seem.,2025-04-22,Rejected,Vendor_6,Sales,UK,False,False,False,False,0
+14,337.1,INR,Entertainment,Pick PM statement magazine discussion will case.,2025-07-19,Approved,Vendor_3,IT,IN,False,False,False,False,0
+4,265.54,USD,Accommodation,Help including ever become kitchen nation.,2025-07-16,Approved,Vendor_1,HR,EU,False,False,False,False,0
+17,193.03,INR,Supplies,Area both strong next despite.,2025-05-31,Approved,Vendor_6,Sales,IN,False,False,False,False,0
+37,209.54,AUD,Supplies,Ever memory every ability manage.,2025-03-20,Rejected,Vendor_9,Sales,AU,False,False,False,False,0
+13,573.76,EUR,Entertainment,Member meet meet southern option quite subject state.,2025-08-03,Approved,Vendor_1,Finance,EU,False,False,False,False,0
+49,541.73,GBP,Supplies,Court group first rock.,2025-03-02,Approved,Vendor_7,IT,EU,False,False,False,False,0
+9,61.91,EUR,Entertainment,Us full quite according it raise bed.,2025-06-04,Rejected,Vendor_5,Finance,UK,False,False,False,False,0
+37,775.43,AUD,Meals,This medical wrong smile decision.,2025-03-30,Approved,Vendor_9,Finance,EU,False,False,False,False,0
+27,377.8,INR,Accommodation,That total machine level.,2025-02-09,Rejected,Vendor_5,Sales,USA,False,False,False,False,0
+14,785.51,GBP,Supplies,Once sing protect music win evening.,2025-05-02,Approved,Vendor_4,IT,USA,False,False,False,False,0
+42,304.63,GBP,Entertainment,Scientist know player natural both.,2025-03-22,Approved,Vendor_7,Sales,USA,False,False,False,False,0
+48,766.64,EUR,Accommodation,Yes hospital huge his father case.,2025-01-10,Approved,Vendor_9,HR,EU,False,False,False,False,0
+31,146.04,AUD,Accommodation,New economic democratic environmental view mouth.,2025-06-30,Approved,Vendor_10,IT,EU,False,False,False,False,0
+23,857.65,EUR,Travel,Organization maintain listen impact conference technology yet.,2025-01-05,Approved,Vendor_5,Sales,IN,False,False,False,False,0
+45,430.05,USD,Travel,Mention across culture act international into go.,2025-07-05,Approved,Vendor_3,Finance,USA,False,False,False,False,0
+1,709.55,USD,Entertainment,Us dream item cell.,2025-04-19,Approved,Vendor_2,Finance,IN,False,False,False,False,0
+33,286.61,USD,Entertainment,Bank member because real by.,2025-05-20,Approved,Vendor_6,IT,AU,False,False,False,False,0
+15,415.51,GBP,Travel,Value response live gun medical.,2025-08-24,Approved,Vendor_3,HR,IN,False,False,False,False,0
+31,45.6,USD,Travel,Fire field rich dark.,2025-02-18,Rejected,Vendor_5,Finance,AU,False,False,False,False,0
+28,526.36,INR,Travel,Section wait agreement.,2025-07-13,Approved,Vendor_8,IT,UK,False,False,False,False,0
+1,73.25,USD,Accommodation,Star let reason still during success.,2025-03-30,Approved,Vendor_10,Sales,IN,False,False,True,False,1
+5,979.68,EUR,Travel,Explain support film floor science possible.,2025-03-27,Rejected,Vendor_9,IT,USA,False,False,False,False,0
+22,479.46,INR,Entertainment,Size particularly important understand reason must.,2025-07-23,Approved,Vendor_6,HR,UK,False,False,False,False,0
+22,153.65,INR,Meals,Our avoid another teacher.,2025-01-18,Approved,Vendor_4,HR,IN,False,False,False,False,0
+28,220.68,AUD,Travel,Let town sea with.,2025-05-20,Rejected,Vendor_1,Finance,USA,False,False,False,False,0
+28,881.05,EUR,Supplies,Blue least two man third ask raise.,2025-07-22,Approved,Vendor_10,IT,USA,False,False,False,False,0
+30,85.68,EUR,Meals,Since bit case effort fear.,2025-03-04,Approved,Vendor_4,IT,UK,False,False,False,False,0
+26,429.22,AUD,Meals,Experience method strong.,2025-09-15,Approved,Vendor_3,Finance,IN,False,False,False,False,0
+25,479.63,GBP,Supplies,Hair understand smile carry statement race.,2025-01-27,Rejected,Vendor_3,Finance,IN,False,False,False,False,0
+31,823.33,USD,Travel,Organization bit certainly less effort share.,2025-04-06,Approved,Vendor_9,Finance,USA,False,False,False,False,0
+36,221.75,USD,Entertainment,Agreement computer contain very.,2025-04-20,Approved,Vendor_6,IT,IN,False,False,False,False,0
+46,900.73,EUR,Supplies,Mission somebody accept charge sure us.,2025-01-04,Approved,Vendor_5,Finance,USA,False,False,False,False,0
+3,994.87,AUD,Accommodation,Break fire late similar dinner.,2025-02-03,Approved,Vendor_7,Sales,USA,False,False,True,False,1
+49,440.39,INR,Meals,Know adult chair support shoulder prove behavior.,2025-06-29,Approved,Vendor_9,Finance,UK,False,False,False,False,0
+34,926.42,INR,Meals,Raise relate cost floor green why.,2025-04-12,Approved,Vendor_7,Sales,EU,False,False,False,False,0
+23,699.26,USD,Travel,Skill the born compare citizen form.,2025-01-16,Approved,Vendor_1,IT,EU,False,False,False,False,0
+47,430.81,EUR,Entertainment,Necessary trade left hot check might less.,2025-02-18,Approved,Vendor_5,Finance,EU,False,False,False,False,0
+35,739.85,EUR,Accommodation,Health here indicate agree physical view.,2025-02-06,Approved,Vendor_8,HR,EU,False,False,False,False,0
+24,479.18,GBP,Accommodation,Always institution peace short.,2025-09-14,Approved,Vendor_1,IT,EU,False,False,False,False,0
+33,919.89,EUR,Supplies,Safe again beyond raise.,2025-09-03,Approved,Vendor_2,Finance,EU,False,False,False,False,0
+8,518.9,GBP,Accommodation,Kid attorney item hand close car.,2025-01-21,Approved,Vendor_7,IT,IN,False,False,False,False,0
+33,313.65,EUR,Meals,Take exist its case return best laugh.,2025-04-11,Approved,Vendor_10,Finance,UK,False,False,False,False,0
+50,170.55,AUD,Travel,Owner country it actually.,2025-03-06,Approved,Vendor_4,Sales,USA,False,False,False,False,0
+41,942.77,USD,Meals,Knowledge idea data technology international rest reach response.,2025-03-02,Approved,Vendor_8,HR,USA,False,False,False,False,0
+20,129.99,AUD,Accommodation,Type food knowledge senior center after similar.,2025-05-02,Approved,Vendor_7,IT,IN,False,False,False,False,0
+46,286.77,AUD,Travel,Enough would this amount theory.,2025-03-20,Approved,Vendor_2,IT,USA,False,False,False,False,0
+10,14.91,USD,Meals,Listen left computer may.,2025-07-25,Approved,Vendor_3,HR,USA,False,False,True,False,1
+7,332.2,EUR,Travel,Treatment special strategy respond also school discuss.,2025-01-27,Approved,Vendor_3,Finance,EU,False,False,False,False,0
+35,193.05,EUR,Accommodation,Read edge different rest discussion shoulder break.,2025-08-05,Approved,Vendor_4,HR,IN,False,False,False,False,0
+48,672.75,GBP,Meals,Down well interest possible grow new.,2025-03-21,Approved,Vendor_3,Sales,UK,False,False,False,False,0
+7,389.02,EUR,Supplies,Some always middle individual yard any campaign trade.,2025-01-26,Approved,Vendor_2,Sales,IN,False,False,False,False,0
+28,764.34,USD,Entertainment,More than station word television record.,2025-03-23,Approved,Vendor_8,Finance,EU,False,False,False,False,0
+36,917.57,GBP,Entertainment,Whatever miss end wait.,2025-04-11,Approved,Vendor_3,HR,UK,False,False,False,False,0
+49,197.85,USD,Entertainment,Far investment season management.,2025-02-15,Rejected,Vendor_7,HR,UK,False,False,False,False,0
+19,388.63,AUD,Travel,Face rich enjoy woman region second.,2025-07-07,Approved,Vendor_1,IT,USA,False,False,False,False,0
+27,280.51,GBP,Accommodation,Two vote task discover.,2025-04-30,Approved,Vendor_8,HR,AU,False,False,False,False,0
+48,81.9,AUD,Supplies,Adult rich sell great spend kid quite own.,2025-05-16,Rejected,Vendor_5,Finance,USA,False,False,True,False,1
+3,572.58,EUR,Accommodation,Often section career cold.,2025-09-08,Approved,Vendor_1,IT,EU,False,False,False,False,0
+31,794.97,EUR,Accommodation,One drug include organization.,2025-06-14,Approved,Vendor_3,Sales,IN,False,False,False,False,0
+38,336.89,USD,Entertainment,Service place themselves.,2025-02-23,Rejected,Vendor_3,IT,IN,False,False,False,False,0
+21,903.99,USD,Supplies,Action only affect choice.,2025-05-23,Approved,Vendor_5,Sales,EU,False,False,False,False,0
+6,504.22,EUR,Meals,Safe yet model sea.,2025-02-10,Approved,Vendor_1,Sales,EU,False,False,False,False,0
+42,142.57,AUD,Entertainment,Tend a rule parent suffer down hospital.,2025-06-03,Rejected,Vendor_10,Sales,UK,False,False,False,False,0
+5,596.66,GBP,Entertainment,View out send.,2025-02-22,Approved,Vendor_9,HR,UK,False,False,False,False,0
+45,777.4,AUD,Supplies,Exist company buy range bag president adult.,2025-07-10,Approved,Vendor_9,IT,IN,False,False,False,False,0
+14,996.59,GBP,Travel,Seem before exactly.,2025-08-20,Approved,Vendor_4,Finance,USA,False,False,False,False,0
+37,990.5,INR,Entertainment,Trade quite American ten.,2025-05-29,Approved,Vendor_2,Sales,AU,False,False,False,False,0
+11,842.23,USD,Travel,Manager plan no among perform.,2025-07-20,Approved,Vendor_1,Finance,UK,False,False,False,False,0
+47,24.75,USD,Entertainment,Other add hear type especially federal.,2025-08-26,Approved,Vendor_1,Finance,IN,False,False,True,False,1
+20,446.15,GBP,Supplies,New mention down party.,2025-08-01,Approved,Vendor_4,HR,EU,False,False,False,False,0
+9,815.02,GBP,Supplies,She democratic stuff around.,2025-06-24,Approved,Vendor_10,HR,EU,False,False,False,False,0
+38,854.86,INR,Travel,Tough whether show must election.,2025-02-12,Approved,Vendor_5,IT,EU,False,False,False,False,0
+26,59.78,AUD,Supplies,Art late similar about herself several natural return.,2025-01-02,Approved,Vendor_10,HR,EU,False,False,False,False,0
+23,709.41,INR,Entertainment,Draw picture eight any century.,2025-01-16,Approved,Vendor_4,Sales,USA,False,False,False,False,0
+8,99.49,INR,Supplies,Total show watch small until.,2025-04-23,Approved,Vendor_1,Finance,EU,False,False,False,False,0
+34,827.27,USD,Travel,Line team possible though keep organization prepare.,2025-03-12,Approved,Vendor_6,Finance,IN,False,False,False,False,0
+8,545.55,AUD,Meals,Mr issue you marriage only field form service.,2025-02-23,Approved,Vendor_7,Sales,AU,False,False,False,False,0
+4,521.48,EUR,Supplies,Support man value husband rise book article.,2025-03-06,Rejected,Vendor_4,HR,UK,False,False,False,False,0
+11,126.99,GBP,Accommodation,Network current approach pattern.,2025-08-30,Rejected,Vendor_6,Finance,IN,False,False,False,False,0
+12,301.78,AUD,Accommodation,Attention bar read pattern term allow whose.,2025-05-10,Approved,Vendor_2,HR,UK,False,False,False,False,0
+27,809.96,GBP,Entertainment,Simply he green near.,2025-05-11,Approved,Vendor_2,Finance,UK,False,False,False,False,0
+21,176.87,GBP,Entertainment,Take behavior exactly class risk ask after.,2025-02-07,Approved,Vendor_7,Finance,IN,False,False,False,False,0
+30,519.62,INR,Entertainment,After discover table five class indeed.,2025-02-16,Approved,Vendor_7,HR,USA,False,False,False,False,0
+17,988.38,GBP,Entertainment,Tonight expert center take.,2025-07-06,Approved,Vendor_3,Finance,EU,False,False,False,False,0
+35,961.63,INR,Accommodation,Himself third pay attack woman improve crime.,2025-07-15,Approved,Vendor_7,IT,USA,False,False,False,False,0
+11,42.42,USD,Accommodation,Pressure word situation raise.,2025-05-08,Approved,Vendor_9,HR,IN,False,False,False,False,0
+3,994.29,INR,Supplies,Feel eye should herself white since up.,2025-01-29,Approved,Vendor_6,HR,UK,False,False,True,False,1
+16,686.72,AUD,Entertainment,Board service two recent student wait.,2025-01-23,Approved,Vendor_6,Sales,IN,False,False,False,False,0
+50,235.25,GBP,Supplies,Behavior though also rise cause.,2025-01-18,Approved,Vendor_10,Sales,IN,False,False,True,False,1
+14,371.15,AUD,Entertainment,Big fund laugh.,2025-08-30,Approved,Vendor_7,Finance,USA,False,False,False,False,0
+22,356.71,GBP,Supplies,Try so support nearly something administration.,2025-09-03,Approved,Vendor_1,HR,AU,False,False,False,False,0
+24,11.51,EUR,Meals,May unit her democratic.,2025-03-26,Approved,Vendor_2,Finance,EU,False,False,False,False,0
+35,913.38,INR,Travel,Design task condition population black expect.,2025-03-09,Approved,Vendor_4,Sales,AU,False,False,False,False,0
+32,650.64,EUR,Travel,Heart effort night agency.,2025-03-19,Approved,Vendor_6,IT,AU,False,False,False,False,0
+5,736.31,INR,Travel,Organization report card approach drive.,2025-04-18,Approved,Vendor_1,HR,IN,False,False,False,False,0
+16,40.56,INR,Entertainment,News heart show sense dinner check thing responsibility.,2025-10-03,Approved,Vendor_7,IT,IN,False,False,False,False,0
+50,670.95,AUD,Supplies,Thank sit major myself unit nature already.,2025-09-14,Rejected,Vendor_7,Sales,USA,False,False,False,False,0
+23,885.15,EUR,Meals,When management figure from.,2025-06-17,Approved,Vendor_9,Sales,IN,False,False,False,False,0
+16,805.05,EUR,Meals,Scene offer past that factor pretty smile to.,2025-07-02,Approved,Vendor_1,HR,UK,False,False,False,False,0
+19,496.34,USD,Entertainment,Player image factor have top garden run.,2025-04-05,Approved,Vendor_7,HR,IN,False,False,False,False,0
+50,179.14,EUR,Supplies,Take wall before him.,2025-05-15,Approved,Vendor_8,Sales,EU,False,False,False,False,0
+50,898.18,EUR,Entertainment,Lose tonight model.,2025-03-18,Rejected,Vendor_7,Sales,EU,False,False,True,False,1
+1,741.24,USD,Travel,Raise job look blue continue member join.,2025-01-01,Approved,Vendor_10,Finance,USA,False,False,False,False,0
+32,903.15,GBP,Supplies,Section example media sign cell.,2025-03-15,Approved,Vendor_3,Sales,USA,False,False,False,False,0
+21,687.47,GBP,Travel,Movie near try goal.,2025-04-13,Approved,Vendor_5,Finance,USA,False,False,False,False,0
+31,338.9,USD,Travel,Set month half give blood wear.,2025-08-26,Approved,Vendor_9,IT,EU,False,False,False,False,0
+33,70.28,GBP,Entertainment,Loss cell spend strong win minute same inside.,2025-03-30,Approved,Vendor_2,HR,IN,False,False,False,False,0
+32,889.68,INR,Travel,Man bar sign us.,2025-03-08,Rejected,Vendor_7,Sales,USA,False,False,False,False,0
+9,218.54,AUD,Accommodation,Mean nothing hear pass ok.,2025-09-29,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+34,907.89,USD,Entertainment,Lawyer note loss note.,2025-08-15,Rejected,Vendor_9,IT,AU,False,False,False,False,0
+48,798.62,USD,Accommodation,Seem improve factor house ten situation.,2025-09-14,Approved,Vendor_3,IT,UK,False,False,False,False,0
+43,178.93,INR,Travel,Game relationship whether lose.,2025-01-11,Approved,Vendor_3,HR,IN,False,False,False,False,0
+17,317.51,GBP,Accommodation,Maintain than history popular cultural side keep.,2025-08-12,Approved,Vendor_3,Sales,EU,False,False,False,False,0
+12,616.98,EUR,Travel,Back very past executive management threat doctor.,2025-04-28,Approved,Vendor_4,IT,UK,False,False,False,False,0
+23,442.15,GBP,Entertainment,Step firm service play lot.,2025-05-27,Approved,Vendor_4,Finance,UK,False,False,False,False,0
+8,866.9,AUD,Meals,Do true benefit third around debate.,2025-05-15,Approved,Vendor_4,Sales,EU,False,False,False,False,0
+5,769.9,INR,Travel,Assume great perform program side hold six wife.,2025-08-25,Approved,Vendor_10,HR,USA,False,False,False,False,0
+14,290.52,USD,Supplies,Enter provide respond nature force.,2025-04-01,Approved,Vendor_7,HR,USA,False,False,False,False,0
+30,951.53,EUR,Travel,Do sing figure stand trade.,2025-09-20,Approved,Vendor_5,Finance,IN,False,False,False,False,0
+42,173.1,USD,Supplies,Middle west baby down Democrat tree.,2025-07-21,Approved,Vendor_9,HR,EU,False,False,False,False,0
+44,181.41,GBP,Supplies,Easy energy go.,2025-08-19,Approved,Vendor_9,Sales,AU,False,False,False,False,0
+30,770.8,INR,Travel,City child teacher point time month perform.,2025-01-17,Approved,Vendor_4,Finance,EU,False,False,False,False,0
+38,121.19,USD,Entertainment,Course design certainly whether and.,2025-07-29,Approved,Vendor_7,Sales,USA,False,False,False,False,0
+16,894.15,AUD,Supplies,Need guy movie value over well her.,2025-02-01,Rejected,Vendor_9,Finance,UK,False,False,False,False,0
+27,214.5,USD,Travel,Question federal herself attention process hit.,2025-07-29,Approved,Vendor_1,Sales,AU,False,False,False,False,0
+21,275.15,GBP,Supplies,Floor increase make stand.,2025-04-28,Approved,Vendor_10,Sales,AU,False,False,False,False,0
+35,72.2,EUR,Travel,Form because usually market join.,2025-02-07,Approved,Vendor_2,HR,EU,False,False,False,False,0
+16,729.64,INR,Meals,Boy garden money one budget design.,2025-06-08,Approved,Vendor_9,Finance,AU,False,False,False,False,0
+39,410.25,AUD,Accommodation,Energy others base.,2025-06-05,Approved,Vendor_8,IT,USA,False,False,False,False,0
+33,261.57,AUD,Supplies,Pass but difficult strong somebody deep.,2025-09-06,Approved,Vendor_8,Finance,USA,False,False,False,False,0
+1,831.89,INR,Supplies,Me traditional rich various more play figure knowledge.,2025-08-11,Approved,Vendor_3,IT,USA,False,False,True,False,1
+4,859.14,AUD,Meals,Per attention consumer large.,2025-05-07,Approved,Vendor_7,Finance,EU,False,False,False,False,0
+27,35.29,INR,Travel,Seem network evidence fill especially authority.,2025-05-24,Approved,Vendor_5,Finance,EU,False,False,False,False,0
+34,469.6,INR,Supplies,Imagine down husband never.,2025-08-07,Approved,Vendor_9,IT,AU,False,False,False,False,0
+36,718.43,GBP,Supplies,Should between trial individual idea.,2025-08-18,Rejected,Vendor_8,Sales,USA,False,False,False,False,0
+37,291.65,GBP,Accommodation,Which sell position one matter dog.,2025-08-05,Rejected,Vendor_5,Finance,UK,False,False,False,False,0
+35,466.71,INR,Accommodation,Whose matter always quickly foot attorney court.,2025-03-09,Approved,Vendor_9,HR,USA,False,False,False,False,0
+32,588.41,AUD,Supplies,Great more sometimes free heart property.,2025-07-27,Approved,Vendor_1,IT,UK,False,False,False,False,0
+32,307.84,GBP,Meals,Fine should forward work state quality management.,2025-09-16,Approved,Vendor_1,HR,IN,False,False,False,False,0
+31,390.31,AUD,Entertainment,Throw son lose own.,2025-08-02,Approved,Vendor_4,Sales,EU,False,False,False,False,0
+50,808.55,AUD,Supplies,Knowledge surface better cell.,2025-05-20,Rejected,Vendor_5,Sales,EU,False,False,True,False,1
+5,484.5,EUR,Accommodation,Evidence significant before investment act.,2025-09-07,Approved,Vendor_3,HR,USA,False,False,False,False,0
+39,583.52,USD,Travel,Read stay democratic artist chance.,2025-03-03,Rejected,Vendor_4,IT,USA,False,False,False,False,0
+30,115.72,USD,Meals,Interview pretty it style important.,2025-03-15,Approved,Vendor_10,HR,AU,False,False,False,False,0
+33,972.6,USD,Accommodation,Power improve any information knowledge I.,2025-01-27,Approved,Vendor_8,IT,IN,False,False,False,False,0
+8,264.91,USD,Supplies,Actually design important just each program describe.,2025-03-06,Rejected,Vendor_4,Sales,EU,False,False,False,False,0
+5,728.96,EUR,Entertainment,Learn civil performance affect law dog.,2025-02-23,Approved,Vendor_7,IT,EU,False,False,False,False,0
+6,823.62,EUR,Meals,Star month mention stock individual phone let.,2025-05-12,Approved,Vendor_3,HR,UK,False,False,False,False,0
+22,455.47,GBP,Travel,Grow production glass until moment day bad heart.,2025-09-13,Rejected,Vendor_1,Sales,IN,False,False,False,False,0
+11,755.5,EUR,Accommodation,Form allow high suffer.,2025-09-23,Approved,Vendor_1,Finance,UK,False,False,False,False,0
+44,800.89,EUR,Entertainment,Everything discussion around.,2025-02-17,Approved,Vendor_9,Finance,EU,False,False,False,False,0
+23,779.0,EUR,Accommodation,Pattern later charge discover.,2025-04-25,Approved,Vendor_10,IT,EU,False,False,False,False,0
+13,495.71,AUD,Meals,Same bad onto value since.,2025-05-12,Approved,Vendor_7,HR,EU,False,False,False,False,0
+20,335.49,EUR,Meals,Health threat manager moment owner day thousand.,2025-06-30,Approved,Vendor_4,HR,EU,False,False,False,False,0
+40,739.94,EUR,Travel,Everyone story feeling game American.,2025-08-28,Approved,Vendor_10,Sales,UK,False,False,False,False,0
+47,386.11,INR,Travel,Daughter social employee hot at.,2025-08-28,Approved,Vendor_5,Finance,IN,False,False,False,False,0
+21,113.31,GBP,Travel,Garden at case attention now can such.,2025-02-05,Approved,Vendor_4,HR,IN,False,False,False,False,0
+32,848.72,AUD,Supplies,They full lay perform base may choose.,2025-04-07,Approved,Vendor_3,HR,USA,False,False,False,False,0
+34,73.33,EUR,Travel,Traditional away few network.,2025-07-04,Approved,Vendor_9,Sales,IN,False,False,False,False,0
+8,698.89,GBP,Entertainment,Plant set pretty entire.,2025-04-22,Approved,Vendor_3,IT,USA,False,False,False,False,0
+17,35.17,EUR,Travel,Black after data hour nation all wonder.,2025-07-07,Approved,Vendor_2,Finance,AU,False,False,False,False,0
+41,639.5,EUR,Accommodation,Look piece trial my hold.,2025-03-07,Approved,Vendor_10,Sales,USA,False,False,False,False,0
+4,200.87,EUR,Entertainment,Mrs nice surface dog.,2025-04-07,Approved,Vendor_8,Sales,UK,False,False,False,False,0
+32,139.08,AUD,Entertainment,Game same type art serve set policy however.,2025-05-12,Rejected,Vendor_1,Finance,EU,False,False,False,False,0
+7,666.47,GBP,Entertainment,Might modern reflect.,2025-05-20,Approved,Vendor_9,HR,AU,False,False,False,False,0
+36,312.39,EUR,Entertainment,Four knowledge bad wide.,2025-04-02,Approved,Vendor_9,Finance,UK,False,False,False,False,0
+27,274.7,USD,Travel,Same page far collection future dream.,2025-01-21,Approved,Vendor_6,IT,EU,False,False,False,False,0
+2,850.96,USD,Travel,Continue for cut result hit performance.,2025-09-05,Approved,Vendor_1,Sales,EU,False,False,False,False,0
+20,471.52,AUD,Accommodation,Clear in director Mrs media nor decision possible.,2025-01-25,Approved,Vendor_8,HR,UK,False,False,False,False,0
+38,323.06,INR,Travel,Admit successful who main never popular store.,2025-05-06,Approved,Vendor_10,Sales,IN,False,False,False,False,0
+34,164.73,GBP,Supplies,Care they become western traditional.,2025-04-24,Rejected,Vendor_10,HR,USA,False,False,False,False,0
+38,582.64,AUD,Travel,Spend music market know threat major well.,2025-02-17,Approved,Vendor_3,IT,UK,False,False,False,False,0
+21,844.59,USD,Entertainment,Game instead low let wind whose letter.,2025-05-02,Rejected,Vendor_6,Sales,EU,False,False,False,False,0
+2,859.92,GBP,Accommodation,Find source pull they.,2025-03-03,Approved,Vendor_2,Finance,UK,False,False,False,False,0
+7,910.24,USD,Supplies,Much decade beautiful suffer protect director to respond.,2025-06-22,Rejected,Vendor_2,Finance,UK,False,False,False,False,0
+36,210.07,EUR,Entertainment,State hot care voice.,2025-02-11,Approved,Vendor_2,Finance,UK,False,False,False,False,0
+46,495.82,GBP,Supplies,Power employee respond first.,2025-05-03,Approved,Vendor_5,Sales,EU,False,False,False,False,0
+45,449.86,USD,Meals,Process conference world rich then.,2025-01-26,Approved,Vendor_7,HR,EU,False,False,False,False,0
+10,129.49,INR,Supplies,Affect something in mouth also similar imagine.,2025-04-30,Approved,Vendor_10,Finance,IN,False,False,False,False,0
+21,136.39,AUD,Accommodation,Deep physical garden summer ten difference.,2025-06-17,Approved,Vendor_5,HR,IN,False,False,False,False,0
+24,732.25,USD,Entertainment,Street professor yourself weight.,2025-04-11,Rejected,Vendor_2,Sales,UK,False,False,False,False,0
+37,962.88,AUD,Travel,Nature measure form college case under.,2025-04-11,Approved,Vendor_4,Finance,USA,False,False,False,False,0
+30,197.26,AUD,Supplies,Day fine have prove.,2025-09-29,Approved,Vendor_8,Finance,USA,False,False,False,False,0
+20,879.44,AUD,Travel,Never stuff yourself research who life.,2025-05-29,Approved,Vendor_7,IT,EU,False,False,False,False,0
+50,584.48,INR,Travel,Pay role better.,2025-04-04,Approved,Vendor_2,HR,EU,False,False,False,False,0
+41,319.76,USD,Accommodation,Field Mrs third.,2025-05-12,Approved,Vendor_9,Finance,USA,False,False,False,False,0
+35,741.23,INR,Meals,Pattern area nation.,2025-06-12,Approved,Vendor_5,Finance,AU,False,False,False,False,0
+23,40.89,INR,Entertainment,Degree two shoulder not now international.,2025-04-08,Approved,Vendor_10,HR,USA,False,False,False,False,0
+47,657.65,EUR,Supplies,Evidence radio within yes.,2025-02-09,Approved,Vendor_9,Sales,IN,False,False,False,False,0
+9,405.18,USD,Supplies,Senior happen hotel still first record.,2025-02-08,Approved,Vendor_9,Finance,EU,False,False,False,False,0
+41,403.16,AUD,Accommodation,Including media design wonder road.,2025-05-28,Approved,Vendor_3,IT,EU,False,False,False,False,0
+21,830.34,INR,Entertainment,Thank the minute animal.,2025-04-12,Approved,Vendor_2,HR,USA,False,False,False,False,0
+36,292.65,EUR,Meals,Because customer add record draw two.,2025-03-07,Approved,Vendor_1,IT,IN,False,False,False,False,0
+19,561.44,INR,Entertainment,Surface official meet.,2025-09-26,Rejected,Vendor_10,Finance,EU,False,False,False,False,0
+15,189.81,GBP,Accommodation,Front go set listen.,2025-08-06,Rejected,Vendor_5,IT,IN,False,False,False,False,0
+31,631.31,INR,Travel,Image claim skill wide sport outside within.,2025-02-16,Rejected,Vendor_3,IT,USA,False,False,False,False,0
+19,693.64,EUR,Travel,Activity suggest article yes if pick fear office.,2025-01-10,Approved,Vendor_10,Finance,USA,False,False,False,False,0
+29,660.51,AUD,Supplies,Author man there senior those carry mean.,2025-05-08,Approved,Vendor_10,Finance,UK,False,False,False,False,0
+5,790.7,AUD,Supplies,Feel return send create matter.,2025-06-21,Approved,Vendor_3,Finance,UK,False,False,False,False,0
+43,162.97,AUD,Travel,Character where newspaper whatever test hotel himself.,2025-09-27,Approved,Vendor_10,Sales,EU,False,False,False,False,0
+32,776.52,EUR,Accommodation,Performance sound seven almost lay themselves.,2025-07-23,Approved,Vendor_2,HR,IN,False,False,False,False,0
+24,61.86,AUD,Accommodation,Red science team them field education seven.,2025-06-14,Approved,Vendor_5,HR,EU,False,False,False,False,0
+7,426.2,INR,Meals,Think fact as ready surface.,2025-08-07,Approved,Vendor_10,Finance,AU,False,False,False,False,0
+2,602.62,EUR,Supplies,Skin himself school mind.,2025-03-24,Approved,Vendor_2,IT,EU,False,False,False,False,0
+33,871.15,INR,Meals,Mission always light help assume identify.,2025-03-12,Approved,Vendor_10,Finance,AU,False,False,False,False,0
+14,197.18,USD,Supplies,Past job pay form future.,2025-01-04,Approved,Vendor_6,IT,UK,False,False,False,False,0
+16,20.68,AUD,Entertainment,Crime teacher company civil.,2025-09-25,Approved,Vendor_7,IT,UK,False,False,False,False,0
+46,588.99,GBP,Travel,Hospital senior last already organization ability.,2025-04-20,Approved,Vendor_4,Sales,USA,False,False,False,False,0
+21,575.83,INR,Accommodation,Factor three dinner big son music kid really.,2025-07-29,Approved,Vendor_3,HR,USA,False,False,False,False,0
+18,157.24,GBP,Travel,Over notice impact organization provide throughout level person.,2025-08-06,Approved,Vendor_3,Finance,EU,False,False,False,False,0
+6,370.66,GBP,Meals,Include rule soldier remember evening hospital certain can.,2025-04-30,Approved,Vendor_2,IT,EU,False,False,False,False,0
+36,407.53,USD,Travel,Already house develop camera.,2025-03-26,Approved,Vendor_8,Finance,UK,False,False,False,False,0
+2,965.49,INR,Meals,Own personal area reduce.,2025-08-05,Approved,Vendor_4,HR,EU,False,False,True,False,1
+38,346.16,AUD,Accommodation,Site than hear leader.,2025-08-27,Rejected,Vendor_2,Sales,USA,False,False,False,False,0
+43,112.09,USD,Meals,Current else information debate put lead.,2025-06-12,Approved,Vendor_8,HR,USA,False,False,False,False,0
+44,888.01,EUR,Travel,Suffer professional charge color feeling including dog factor.,2025-10-02,Approved,Vendor_3,HR,IN,False,False,False,False,0
+15,727.56,AUD,Travel,Model though cup little.,2025-07-22,Approved,Vendor_3,HR,USA,False,False,False,False,0
+21,843.16,USD,Entertainment,Outside strategy end act dark age.,2025-08-27,Approved,Vendor_4,HR,IN,False,False,False,False,0
+29,988.17,INR,Entertainment,Plant available too expect list western.,2025-07-08,Approved,Vendor_5,IT,USA,False,False,False,False,0
+26,930.51,EUR,Meals,Performance behavior after significant baby throw.,2025-05-02,Approved,Vendor_3,IT,AU,False,False,False,False,0
+11,275.33,USD,Accommodation,Under according recent resource she plan easy hand.,2025-09-11,Approved,Vendor_9,Finance,UK,False,False,False,False,0
+15,148.27,AUD,Travel,Gas him middle gun wait.,2025-09-11,Approved,Vendor_4,Finance,IN,False,False,False,False,0
+49,369.81,INR,Travel,Exactly door game stage college himself or game.,2025-09-13,Approved,Vendor_3,Finance,IN,False,False,False,False,0
+27,557.45,GBP,Supplies,Professional speech hold catch agency deep successful.,2025-06-24,Approved,Vendor_3,Sales,EU,False,False,False,False,0
+21,685.31,INR,Accommodation,Human product activity.,2025-01-10,Rejected,Vendor_10,Finance,AU,False,False,False,False,0
+26,914.1,USD,Travel,Time green cost late positive simple.,2025-08-17,Approved,Vendor_9,Finance,AU,False,False,False,False,0
+23,240.86,EUR,Entertainment,Down low those American myself analysis center.,2025-03-30,Rejected,Vendor_8,IT,EU,False,False,False,False,0
+20,340.85,INR,Travel,Herself item reason between.,2025-08-24,Approved,Vendor_3,IT,IN,False,False,False,False,0
+24,854.58,AUD,Meals,Region pretty my mean nation take certain.,2025-06-30,Approved,Vendor_8,Finance,EU,False,False,False,False,0
+30,162.45,GBP,Meals,Office half administration true begin.,2025-08-11,Approved,Vendor_10,IT,USA,False,False,False,False,0
+18,844.06,EUR,Travel,Everything goal mouth production.,2025-08-16,Approved,Vendor_7,Finance,IN,False,False,False,False,0
+24,911.04,INR,Meals,Say maybe trouble he town.,2025-08-27,Approved,Vendor_6,Finance,IN,False,False,False,False,0
+7,800.94,GBP,Accommodation,Coach old treatment plant technology life.,2025-04-24,Approved,Vendor_8,Sales,UK,False,False,False,False,0
+13,993.74,EUR,Travel,Meeting hair bag accept light house.,2025-06-27,Approved,Vendor_5,IT,IN,False,False,False,False,0
+42,962.34,EUR,Travel,College four may hotel remain production tend official.,2025-08-14,Approved,Vendor_1,HR,USA,False,False,False,False,0
+21,610.0,USD,Supplies,Suffer energy election use research there reach provide.,2025-06-26,Approved,Vendor_5,Sales,USA,False,False,False,False,0
+2,224.16,USD,Entertainment,Suggest treat animal.,2025-06-13,Approved,Vendor_3,Sales,UK,False,False,False,False,0
+20,18.73,INR,Entertainment,Outside live huge able.,2025-05-31,Approved,Vendor_8,HR,USA,False,False,False,False,0
+7,86.23,AUD,Supplies,Pressure seat network quality within.,2025-07-06,Approved,Vendor_1,Finance,IN,False,False,False,False,0
+24,150.79,AUD,Supplies,Glass civil easy should ground central treatment.,2025-09-26,Approved,Vendor_8,Sales,UK,False,False,False,False,0
+3,462.33,AUD,Accommodation,Human defense attention close production food.,2025-01-16,Approved,Vendor_7,Finance,UK,False,False,False,False,0
+16,557.06,GBP,Entertainment,Charge recent today enjoy.,2025-07-12,Approved,Vendor_6,Sales,IN,False,False,False,False,0
+6,353.97,USD,Accommodation,Consumer prepare there range.,2025-01-04,Approved,Vendor_1,IT,IN,False,False,False,False,0
+34,291.9,USD,Entertainment,Effect make would memory employee.,2025-07-11,Rejected,Vendor_10,Finance,USA,False,False,False,False,0
+42,364.4,EUR,Supplies,Hand range land Mrs window billion.,2025-05-22,Approved,Vendor_7,Finance,USA,False,False,False,False,0
+37,121.59,INR,Travel,Likely myself writer new.,2025-09-01,Approved,Vendor_9,Finance,AU,False,False,False,False,0
+21,916.57,AUD,Accommodation,Game onto wear idea blue bill political.,2025-04-01,Approved,Vendor_8,Finance,AU,False,False,False,False,0
+31,10.74,EUR,Meals,Determine down method to deal.,2025-09-07,Approved,Vendor_8,Sales,IN,False,False,False,False,0
+44,377.67,EUR,Accommodation,Standard yeah accept quite.,2025-04-04,Approved,Vendor_5,HR,UK,False,False,False,False,0
+8,662.3,EUR,Travel,Recently through those do figure sound.,2025-04-30,Approved,Vendor_5,HR,AU,False,False,False,False,0
+24,660.64,GBP,Accommodation,Pull itself every.,2025-07-22,Approved,Vendor_4,Sales,IN,False,False,False,False,0
+8,608.95,AUD,Supplies,Become stand type firm message window turn.,2025-09-08,Rejected,Vendor_7,IT,USA,False,False,False,False,0
+44,613.15,GBP,Supplies,Stuff response meeting field.,2025-07-13,Approved,Vendor_10,Sales,UK,False,False,False,False,0
+5,539.89,EUR,Meals,Modern back than chance.,2025-10-03,Approved,Vendor_6,HR,USA,False,False,False,False,0
+47,116.49,AUD,Accommodation,Occur seek head continue.,2025-04-26,Approved,Vendor_3,HR,IN,False,False,False,False,0
+30,652.76,GBP,Travel,Relationship candidate base action source each anyone.,2025-05-21,Rejected,Vendor_5,Finance,EU,False,False,False,False,0
+34,428.39,GBP,Entertainment,Popular also more bag.,2025-05-30,Approved,Vendor_10,HR,AU,False,False,False,False,0
+6,46.45,EUR,Accommodation,Church magazine car.,2025-05-24,Rejected,Vendor_1,Sales,USA,False,False,False,False,0
+50,270.36,AUD,Entertainment,Today perhaps four trade computer.,2025-05-07,Approved,Vendor_3,IT,UK,False,False,False,False,0
+9,699.99,INR,Entertainment,Do security wife enter.,2025-06-10,Approved,Vendor_3,IT,AU,False,False,False,False,0
+4,576.79,INR,Supplies,Cultural peace sign figure military hand ready.,2025-02-26,Approved,Vendor_8,IT,AU,False,False,False,False,0
+18,156.02,USD,Supplies,Born thousand small rather leave choice drive.,2025-03-13,Rejected,Vendor_5,Sales,USA,False,False,False,False,0
+9,86.9,USD,Travel,Cause they control since compare.,2025-08-10,Rejected,Vendor_6,HR,EU,False,False,False,False,0
+39,386.42,EUR,Entertainment,Thank whole result else.,2025-09-29,Approved,Vendor_2,Sales,EU,False,False,False,False,0
+17,738.98,INR,Travel,Young develop order state old these.,2025-01-01,Approved,Vendor_1,Finance,EU,False,False,False,False,0
+1,232.8,USD,Travel,Along service major available eight test.,2025-03-15,Approved,Vendor_2,Sales,USA,False,False,True,False,1
+9,847.98,GBP,Supplies,Sister work century entire call market marriage.,2025-08-17,Approved,Vendor_3,HR,EU,False,False,False,False,0
+19,526.9,INR,Entertainment,Nothing account eat finish red.,2025-07-25,Approved,Vendor_6,IT,IN,False,False,False,False,0
+18,329.2,INR,Meals,Water brother reflect past be president very.,2025-06-24,Approved,Vendor_1,Sales,IN,False,False,False,False,0
+33,271.25,INR,Travel,Seat surface provide maybe account.,2025-09-23,Approved,Vendor_10,Finance,IN,False,False,False,False,0
+44,434.86,USD,Supplies,Believe onto population church must.,2025-09-13,Approved,Vendor_10,IT,UK,False,False,False,False,0
+44,913.59,USD,Accommodation,Although despite operation sing.,2025-08-18,Rejected,Vendor_8,HR,USA,False,False,False,False,0
+16,31.23,INR,Entertainment,Buy often market himself hair.,2025-07-30,Approved,Vendor_8,IT,AU,False,False,False,False,0
+44,751.23,USD,Travel,Strong south available put.,2025-05-20,Rejected,Vendor_5,Sales,USA,False,False,False,False,0
+7,836.9,EUR,Meals,Affect arm yet first.,2025-05-08,Approved,Vendor_1,HR,IN,False,False,False,False,0
+3,751.5,AUD,Supplies,Up owner wife bill film medical debate.,2025-04-08,Approved,Vendor_5,Finance,UK,False,False,False,False,0
+50,143.93,USD,Meals,Put stuff how artist actually ability across.,2025-01-12,Approved,Vendor_9,Finance,AU,False,False,True,False,1
+24,903.33,AUD,Supplies,With away to possible research door exactly.,2025-06-01,Approved,Vendor_9,Finance,UK,False,False,False,False,0
+35,895.7,EUR,Accommodation,Spring foreign choose.,2025-10-01,Rejected,Vendor_4,IT,EU,False,False,False,False,0
+12,891.14,USD,Meals,Research town ahead among hundred.,2025-04-27,Rejected,Vendor_10,Sales,USA,False,False,False,False,0
+3,53.56,INR,Travel,Occur century teach law.,2025-01-23,Approved,Vendor_3,Sales,EU,False,False,False,False,0
+32,921.44,GBP,Meals,Language though sort we.,2025-02-11,Rejected,Vendor_1,IT,AU,False,False,False,False,0
+44,533.29,GBP,Entertainment,Against interesting in general election bed.,2025-03-16,Approved,Vendor_5,IT,USA,False,False,False,False,0
+9,244.81,USD,Supplies,Say bank resource special but red itself great.,2025-05-22,Rejected,Vendor_5,IT,AU,False,False,False,False,0
+47,80.56,AUD,Entertainment,Actually pull far above.,2025-07-10,Rejected,Vendor_9,Finance,USA,False,False,False,False,0
+18,818.83,GBP,Supplies,Training old least purpose boy try.,2025-03-29,Approved,Vendor_8,Finance,UK,False,False,False,False,0
+20,969.83,EUR,Supplies,Memory take trial business stay career.,2025-03-11,Approved,Vendor_2,IT,USA,False,False,False,False,0
+3,395.09,AUD,Meals,Heart per television arrive property be.,2025-07-06,Approved,Vendor_7,Finance,UK,False,False,False,False,0
+39,364.48,INR,Meals,Hit experience still my front station.,2025-06-18,Rejected,Vendor_2,Finance,IN,False,False,False,False,0
+26,937.57,EUR,Meals,Organization while line condition mention plan what.,2025-06-23,Approved,Vendor_3,IT,IN,False,False,False,False,0
+36,990.3,GBP,Supplies,Word everyone ago first forward.,2025-07-18,Approved,Vendor_2,Sales,EU,False,False,False,False,0
+11,368.54,EUR,Entertainment,Center without town improve send significant thus.,2025-09-13,Approved,Vendor_9,Finance,IN,False,False,False,False,0
+48,313.26,AUD,Travel,Factor west religious reflect save agency.,2025-07-17,Approved,Vendor_5,Sales,IN,False,False,False,False,0
+42,214.28,GBP,Entertainment,Leave radio surface avoid.,2025-05-05,Approved,Vendor_2,IT,USA,False,False,False,False,0
+39,973.5,INR,Accommodation,Clear mention partner.,2025-08-13,Approved,Vendor_9,Sales,IN,False,False,False,False,0
+15,239.07,EUR,Travel,Billion of kid she project report investment.,2025-09-04,Approved,Vendor_1,Finance,AU,False,False,False,False,0
+35,301.1,USD,Travel,Name maybe common front do will kind big.,2025-07-28,Approved,Vendor_1,IT,IN,False,False,False,False,0
+42,514.12,INR,Entertainment,Matter tree morning other read.,2025-02-13,Approved,Vendor_9,Finance,EU,False,False,False,False,0
+19,55.34,GBP,Accommodation,About deep his myself.,2025-07-17,Approved,Vendor_8,HR,USA,False,False,False,False,0
+27,572.2,USD,Travel,Contain debate short sense past.,2025-06-26,Approved,Vendor_8,Finance,USA,False,False,False,False,0
+14,957.83,EUR,Entertainment,Person high or season meet general nearly.,2025-07-17,Approved,Vendor_7,HR,IN,False,False,False,False,0
+32,330.91,GBP,Accommodation,Order child suffer must produce account.,2025-06-10,Approved,Vendor_7,HR,EU,False,False,False,False,0
+1,820.35,AUD,Entertainment,Once power beyond part apply require buy.,2025-02-17,Approved,Vendor_10,HR,EU,False,False,True,False,1
+21,688.96,AUD,Supplies,Training man hope perform person drop.,2025-06-01,Approved,Vendor_7,Sales,EU,False,False,False,False,0
+19,616.07,INR,Meals,Fall education business everything term view last.,2025-07-16,Approved,Vendor_2,Sales,USA,False,False,False,False,0
+49,804.84,INR,Entertainment,Day government let two including.,2025-01-29,Rejected,Vendor_2,IT,UK,False,False,False,False,0
+46,75.79,USD,Accommodation,Compare PM daughter husband every his her.,2025-06-16,Approved,Vendor_3,Sales,UK,False,False,True,False,1
+17,722.99,GBP,Meals,Physical cause hundred news.,2025-08-03,Rejected,Vendor_9,Finance,EU,False,False,False,False,0
+2,780.39,AUD,Travel,Accept president way TV impact reveal.,2025-07-04,Approved,Vendor_7,Sales,AU,False,False,False,False,0
+47,784.06,AUD,Supplies,Color bit word.,2025-06-15,Approved,Vendor_5,IT,UK,False,False,False,False,0
+27,629.46,INR,Travel,Enter TV reveal social weight question method himself.,2025-02-03,Approved,Vendor_6,HR,UK,False,False,False,False,0
+7,986.03,GBP,Meals,Bill themselves scene section get.,2025-08-28,Approved,Vendor_2,IT,UK,False,False,False,False,0
+21,787.21,AUD,Entertainment,Computer couple minute manage condition international.,2025-05-08,Approved,Vendor_3,HR,USA,False,False,False,False,0
+32,37.96,GBP,Meals,Window control or indicate international decade control common.,2025-01-19,Approved,Vendor_3,Finance,EU,False,False,False,False,0
+19,478.51,USD,Accommodation,Write coach image recognize dream bit fall.,2025-05-05,Approved,Vendor_7,Finance,UK,False,False,False,False,0
+20,589.73,AUD,Meals,Discuss skill large open.,2025-08-23,Approved,Vendor_10,IT,AU,False,False,False,False,0
+38,175.97,INR,Accommodation,Figure maybe image maintain instead he.,2025-04-04,Approved,Vendor_9,IT,USA,False,False,False,False,0
+6,537.54,GBP,Meals,Manager similar just very Democrat only vote me.,2025-05-25,Approved,Vendor_7,IT,AU,False,False,False,False,0
+13,720.6,GBP,Travel,Any player in everyone record until special.,2025-07-28,Approved,Vendor_2,HR,EU,False,False,False,False,0
+22,305.57,INR,Supplies,While shoulder their him.,2025-09-14,Approved,Vendor_10,IT,EU,False,False,False,False,0
+28,712.96,INR,Accommodation,We argue occur real.,2025-08-10,Approved,Vendor_10,Finance,USA,False,False,False,False,0
+12,736.66,GBP,Accommodation,I week learn less main.,2025-06-06,Approved,Vendor_8,HR,UK,False,False,False,False,0
+8,880.19,INR,Supplies,Government us go low may.,2025-03-26,Approved,Vendor_5,Finance,IN,False,False,False,False,0
+3,98.01,GBP,Entertainment,Speech business nature high ground there why.,2025-03-18,Rejected,Vendor_8,IT,IN,False,False,False,False,0
+11,428.06,EUR,Meals,Where help son often which within.,2025-05-07,Approved,Vendor_10,Finance,AU,False,False,False,False,0
+23,747.24,AUD,Meals,Successful important expect.,2025-05-18,Approved,Vendor_7,IT,IN,False,False,False,False,0
+38,741.26,GBP,Entertainment,Agree artist air yard language career important international.,2025-07-09,Approved,Vendor_10,IT,AU,False,False,False,False,0
+41,971.97,INR,Entertainment,Two effort every statement possible be challenge.,2025-01-04,Rejected,Vendor_5,Sales,UK,False,False,False,False,0
+32,371.51,EUR,Meals,Environmental purpose page that red soldier life.,2025-03-09,Rejected,Vendor_3,Finance,USA,False,False,False,False,0
+25,733.56,AUD,Accommodation,Subject involve since third likely off.,2025-08-29,Approved,Vendor_2,IT,EU,False,False,False,False,0
+39,663.19,EUR,Entertainment,Happen game behavior listen.,2025-02-07,Approved,Vendor_3,IT,IN,False,False,False,False,0
+50,555.18,USD,Supplies,Late have collection natural spring where.,2025-01-14,Approved,Vendor_7,IT,IN,False,False,True,False,1
+6,511.14,GBP,Travel,Structure over identify system unit.,2025-05-15,Approved,Vendor_10,HR,USA,False,False,False,False,0
+30,949.52,USD,Accommodation,Cover score specific significant.,2025-06-06,Approved,Vendor_9,Finance,USA,False,False,False,False,0
+15,717.2,AUD,Meals,Religious two national soon.,2025-03-28,Approved,Vendor_7,Finance,UK,False,False,False,False,0
+9,745.42,GBP,Meals,Personal argue over really admit reflect sister arm.,2025-07-02,Approved,Vendor_10,Finance,IN,False,False,False,False,0
+31,307.17,AUD,Entertainment,Strong city this option.,2025-02-06,Rejected,Vendor_4,Sales,UK,False,False,False,False,0
+24,883.41,USD,Entertainment,Last start be century actually.,2025-09-21,Rejected,Vendor_8,HR,AU,False,False,False,False,0
+48,17.66,EUR,Supplies,Between international leg his you.,2025-04-25,Approved,Vendor_4,HR,IN,False,False,True,False,1
+2,622.9,USD,Meals,Speak bad character from federal game.,2025-03-13,Approved,Vendor_5,HR,AU,False,False,False,False,0
+13,565.23,USD,Entertainment,Soldier measure somebody yeah after consider onto bar.,2025-01-24,Approved,Vendor_8,IT,USA,False,False,False,False,0
+22,824.92,GBP,Entertainment,Production information have popular cut customer health.,2025-04-14,Approved,Vendor_2,Finance,IN,False,False,False,False,0
+29,739.07,INR,Entertainment,Group expect too cell government responsibility way.,2025-04-23,Approved,Vendor_8,Sales,UK,False,False,False,False,0
+2,27.61,INR,Meals,Goal officer us example contain her by.,2025-05-31,Rejected,Vendor_1,IT,AU,False,False,True,False,1
+45,206.33,EUR,Meals,Evidence evening exactly owner issue open.,2025-03-23,Approved,Vendor_3,Finance,IN,False,False,False,False,0
+13,847.89,GBP,Supplies,Method something international article later finish check heavy.,2025-09-04,Approved,Vendor_4,Sales,EU,False,False,False,False,0
+24,531.28,AUD,Travel,Truth ready institution food first benefit.,2025-02-24,Rejected,Vendor_3,Sales,USA,False,False,False,False,0
+2,38.05,EUR,Entertainment,Nothing value pressure instead marriage discover.,2025-03-29,Approved,Vendor_10,HR,AU,False,False,True,False,1
+33,596.13,INR,Travel,Player development local structure whom.,2025-09-23,Approved,Vendor_9,Finance,EU,True,True,False,False,2
+35,957.62,INR,Accommodation,She discover natural right.,2025-03-17,Approved,Vendor_4,IT,UK,True,True,False,False,2
+46,615.08,INR,Accommodation,Clearly young walk road.,2025-08-01,Approved,Vendor_3,HR,USA,True,True,False,False,2
+33,596.13,INR,Travel,Player development local structure whom. slight change,2025-09-23,Approved,Vendor_10,Sales,AU,True,False,False,False,1
+1,4998.1,USD,Travel,Luxury flight for testing,2025-10-01,Approved,Vendor_6,Finance,EU,False,False,True,True,2
